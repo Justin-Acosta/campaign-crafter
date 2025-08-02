@@ -6,8 +6,6 @@ This tool is designed to help you brainstorm ideas, develop plot hooks, create n
 
 This tool is meant to be used in cursor in conjunction with the agent.
 
-## Usage
+# rules/context.md
 
-1.  
-
-
+Once you have a basic outline of your campaign or chapter, prompt the model to create a summary of your project and add the summary to the rules/context.md file
