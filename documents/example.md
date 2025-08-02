@@ -1,0 +1,1 @@
+<!-- put documents for your campaign in this directory. for example, a letter that an NPC wrote to one of your party members -->
