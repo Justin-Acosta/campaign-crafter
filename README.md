@@ -9,4 +9,3 @@ This tool is meant to be used in cursor in conjunction with the agent.
 # rules/context.md
 
 Once you have a basic outline of your campaign or chapter, prompt the model to create a summary of your project and add the summary to the rules/context.md file
-

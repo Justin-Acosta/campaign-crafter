@@ -1,27 +1,35 @@
-# Campaign Context: Cult of Hadar
+# Campaign Context: The Cult of Hadar
 
-This document outlines the core premise, setting, key characters, and plot of the campaign to provide context for AI-assisted content generation.
+This document serves as a quick-reference guide to the D&D campaign, outlining the core elements of the setting, characters, and plot.
 
-## I. Core Premise
+## Campaign Overview
 
-The adventure begins as the player characters are summoned to the village of Westbridge by Avon, a Priest of Lathander, to attend the traditional Eclipse Festival. They are asked to investigate a "necrotic trouble" at a Temple of Selune deep within the Kryptgarden Forest, but quickly become entangled in a sinister plot involving mysterious warlocks.
+The campaign begins in the village of Westbridge, where the party has been summoned by Avon, a cleric of Lathander, to investigate a "necrotic trouble" at a nearby temple of Selûne in the dangerous Kryptgarden Forest. The adventure kicks off during the village's annual Eclipse Festival, a joint celebration of Lathander and Selûne. The core conflict revolves around a mysterious cult of warlocks—the Heralds of Hadar—who serve the elder evil Hadar, the Dark Hunger. These warlocks, led by the tiefling Vexia, abduct Avon during the festival's climactic ritual, setting the party on a quest to rescue him and uncover the cult's motives.
 
-## II. Setting
+## Key Locations
 
-- **Westbridge:** A modest farming village positioned at the crossroads of the Long Road and the Stone Trail, next to the Kryptgarden Forest. It serves as a local hub for commerce and is the home of the annual Eclipse Festival, a joint celebration of Lathander and Selûne.
-- **Kryptgarden Forest:** An ancient and notoriously dangerous woodland, home to an ancient green dragon named Gnawbone. A long-established Temple of Selune lies deep within its borders.
+- **Westbridge:** A modest farming village at the crossroads of the Long Road and the Stone Trail. It's the central hub for local commerce and host to the annual Eclipse Festival.
+- **Kryptgarden Forest:** A notoriously dangerous and ancient forest that is home to many monsters, including an ancient green dragon. A temple to Selûne is located deep within its woods. It has recently seen a surge in undead activity.
+- **Temple of Selûne:** A sacred site within the Kryptgarden Forest, recently overrun by undead, forcing its clergy to flee to Westbridge. Its leader, Elara, is missing. A powerful necrotic energy has been detected emanating from beneath it.
 
-## III. Key Characters & Factions
+## Dramatis Personae
 
-- **Avon:** The venerable and respected leader of Westbridge's Church of Lathander. He summons the party to Westbridge and is the target of the abduction.
-- **The Warlocks:** A mysterious trio who attack the Eclipse Festival. Their motives are unknown, but they are connected to the undead infestation at the Selunite temple and a strange magical device.
-- **Ghaliver Longstocking:** An eccentric but brilliant gnome artificer based in Westbridge. He is the unwitting creator of the device used by the warlocks.
+- **Avon:** A venerable human cleric of Lathander and a community leader in Westbridge. He is kind, respected, and deeply concerned about the troubles at the Selûne temple and the disappearance of his childhood friend, Elara. He is abducted by the Heralds of Hadar during the Eclipse Ritual.
+- **Elara:** A Selûnite wood elf priestess and the leader of the Kryptgarden temple. She is currently missing. [User question: What is Elara's age? What does she look like? What is her personality and leadership style?]
+- **Lyra:** A young silver dragonborn priestess of Selûne, mentored by Elara. Her scales shimmer like mother-of-pearl, and her eyes are the color of a twilight sky. She is kind but anxious, thrust into a leadership role for the Eclipse Ritual after Elara's disappearance.
+- **Ghaliver Longstocking:** An eccentric and brilliant gnome artificer in Westbridge with a wild shock of white hair and grease-smudged cheeks. Their presentation is fluid, and they are a trusted, enthusiastic problem-solver who manages logistics for the village.
 
-## IV. Chapter 1 Plot Summary: "The Eclipse Festival"
+## Antagonists: The Cult of Hadar
 
-The campaign opens with the characters arriving in Westbridge for the Eclipse Festival.
+- **Hadar, The Dark Hunger:** An ancient Elder Evil from the Far Realm, Hadar manifests not as a creature of flesh, but as a malevolent, dying star. Driven by a desperate and insatiable hunger to escape its own slow annihilation, Hadar projects its influence across the cosmos, promising dark gifts to those warlocks who are mad enough to seek its patronage.
+- **Heralds of Hadar:** These are not monsters, but ordinary people who made a pact with Hadar during a personal crisis. While the pact has marked them with jet-black eyes and a gnawing hunger sated only by feeding their patron, it has not erased their humanity. They abduct powerful individuals to sacrifice to Hadar.
+- **The Abductors:** The trio of Heralds who attack the Eclipse Festival to capture Avon are:
+  - **Vexia:** A lithe tiefling warlock/sorcerer and the reluctant leader, driven by a need to prove her worth.
+  - **Gruff:** A hulking goliath warlock/fighter fiercely loyal to his partner, Minda. He seeks power to protect her.
+  - **Nexi:** A half-elf warlock/rogue from the Shadowfell who uses the pact's hunger to feel alive and escape the gloom of their home.
 
-- **The Hook:** Avon privately asks the party to investigate the nearby Temple of Selune, which has been overrun by undead creatures, forcing its clergy to flee to Westbridge.
-- **Inciting Incident:** During the festival's climactic ritual, three warlocks attack and abduct Avon.
-- **The Investigation:** The party's investigation leads them to the troubled Selunite temple. There, they discover a dying undead creature, the body of a warlock, and a complex magical device.
-- **The Climax & Next Hook:** The party traces the device to its creator, the artificer Ghaliver Longstocking. He reveals that the warlocks who commissioned it have taken Avon to another temple of Selune, setting up the next stage of the adventure.
+## Current Events & Plot Hooks
+
+- **Avon's Abduction:** The primary, immediate hook. The party witnesses Avon's kidnapping by Vexia, Gruff, and Nexi at the climax of the Eclipse Ritual. Lyra, now the sole remaining cleric, will likely implore the party to rescue him.
+- **The Infested Temple:** The original mission from Avon. What is the source of the necrotic energy at the Temple of Selûne? What happened to Priestess Elara? This is complicated by the fact that a fourth Herald of Hadar was recently slain inside the temple by a powerful undead entity.
+- **The Warlocks' Plan:** The cult's motives are mysterious. They abducted Avon at his moment of greatest power and are taking him to another temple of Selûne. Why? The `ideas.md` file suggests Elara was forced to become a Herald, giving the cult inside knowledge of the ritual. [User Question: Where is Elara now? Did she escape?]
