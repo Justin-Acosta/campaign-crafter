@@ -6,4 +6,6 @@
 
 - There were 4 warlocks. The warlocks were unexpectedly fighting the powerful undead entity in the temple of Selune, but they did not have time to finish the fight before intervening in the Eclipse Ritual. The 4th warlock stayed behind, channeling a spell that allowed the others to leave. She was ultimately slain by the undead creature.
 
-- Elara was forced to accept Hadar as her patron. This is how the warlocks learned how the Eclipse Ritual works. Where is she now? did she escape the warlocks? if so, how?
+- Elara was forced to accept Hadar as her patron. This is how the warlocks learned how the Eclipse Ritual works.
+
+- Elara has now escaped and she is in the Kryptgarden Forest or the Temple of Selune. The party encounters Elara in the Temple of Selune.
