@@ -1,4 +1,4 @@
-Adventure Chapter 1: The Eclipse Festival
+`Chapter 1: The Eclipse Festival
 
 I. The Adventure Hook
 

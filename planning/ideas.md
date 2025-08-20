@@ -9,3 +9,5 @@
 - Elara was forced to accept Hadar as her patron. This is how the warlocks learned how the Eclipse Ritual works.
 
 - Elara has now escaped and she is in the Kryptgarden Forest or the Temple of Selune. The party encounters Elara in the Temple of Selune.
+
+Chapter 2 Brainstorming:

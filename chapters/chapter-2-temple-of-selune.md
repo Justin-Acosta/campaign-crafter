@@ -1,4 +1,4 @@
-Adventure Chapter 2: The Temple of Selûne
+Chapter 2: The Temple of Selûne
 
 I. The Journey to the Temple
 
