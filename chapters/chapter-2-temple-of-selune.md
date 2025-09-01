@@ -1,6 +1,18 @@
-Chapter 2: The Temple of Selûne
+# Chapter 2: The Temple of Selûne
 
-I. The Journey to the Temple
+## I. The Aftermath
+
+- After the abduction, the atmosphere in the village is tense.
+- Lyra is in a coma becuase the eclipse ritual was interupted. Her eyes still shine with a radient glow, even when closed. Avon is in a simmilar condition.
+- There is still weak risidual protection provided by the previous eclipse ritual. It will repel weak evil forces, but will not sustain an attack from a larger creature or spell.
+
+### Points of Interest:
+
+The Fountain:
+
+
+
+Important Details:
 
 Introductory Reading:
 [Guiding Question: How can you describe the party's journey from Westbridge into the monster-infested Kryptgarden Forest to find the troubled Temple of Selûne? This chapter should blend wilderness travel, dungeon exploration, investigation, and combat. The primary goals are to investigate the source of the necrotic energy plaguing the temple, uncover what happened to the missing priestess Elara, and find clues that will lead them to Avon and his captors, the Heralds of Hadar.]
