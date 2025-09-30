@@ -99,7 +99,7 @@ A kindly half-elf (Linden) with flour dusting his apron and a warm smile runs th
 5: They feel a surge of warmth and gain 1 temporary hit point that they keep until they take damage.
 6: Their eyes glow faintly like the moon for a minute.
 
-## III. A Ritual abduction
+III. A Ritual Abduction
 
 ### The Eclipse Ritual:
 
@@ -144,3 +144,7 @@ HP: 120
 Key Abilities: (Devilsight, Awaken Mind, Darkness, Eldritch Blast, Arms of Hadar, Hunger of Hadar, Counter-Spell, Sneak Attack, Uncanny Dodge)
 
 ---
+
+Panic erupts. The joyous celebration turns to screams of terror as the crowd scrambles away from the void. The darkness lingers for only a moment, but it feels like an eternity. When it finally dissipates with a faint pop, the three warlocks are gone. And so is Avon. Lyra, lays unmoving where she stood on the ritual platform.
+
+IV. After the Festival:
