@@ -6,6 +6,19 @@ This table can be used for random encounters in the town of Westbridge in the da
 
 ### d12 Encounters
 
+1.  **One Last Game**
+2.  **Ghaliver's Gadget Gone Haywire**
+3.  **The Whispering Well**
+4.  **The Calamity Collector (Merchant)**
+5.  **A Warlock's Remnant**
+6.  **Spooked Beasts**
+7.  **A Desperate Prayer**
+8.  **The Festival Loiterer**
+9.  **Left Behind (Combat)**
+10. **Ominous Offering**
+11. **The Worried Hunter**
+12. **The Sun-Stained Child**
+
 ---
 
 ### 1. One Last Game
