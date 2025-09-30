@@ -2,13 +2,27 @@
 
 ## I. The Aftermath
 
-- After the abduction, the atmosphere in the village is tense.
+- After the abduction, the atmosphere in Westbridge is tense.
 - Lyra is in a coma becuase the eclipse ritual was interupted. Her eyes still shine with a radient glow, even when closed. Avon is in a simmilar condition.
 - There is still weak risidual protection provided by the previous eclipse ritual. It will repel weak evil forces, but will not sustain an attack from a larger creature or spell.
+- Westbridge is more or less on lockdown. The limited available locations are listed below.
 
 ### Points of Interest:
 
-The Fountain:
+The Fountain / Town Square:
+- Is any evidence left behind by the warlocks?
+- Is anyone still lingering by the fountain?
+
+The Church of Lathander:
+- Lyra is being tended to by the clergey of the Church.
+- Who is in charge of the church now?
+- What clues might be found in his personal quarters? A journal, a hidden map, a strange relic?
+- Are there any acolytes or other church members who can provide information about Avon's recent activities or worries?
+
+The General Shop:
+- name?
+- shopkeeper? - Borin
+- what is unique about this shop?
 
 
 
