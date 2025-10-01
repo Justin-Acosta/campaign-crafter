@@ -1,0 +1,1 @@
+# Westbridge Loot Table

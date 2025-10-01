@@ -6,19 +6,6 @@ This table can be used for random encounters in the town of Westbridge in the da
 
 ### d12 Encounters
 
-1.  **One Last Game**
-2.  **Ghaliver's Gadget Gone Haywire**
-3.  **The Whispering Well**
-4.  **The Calamity Collector (Merchant)**
-5.  **A Warlock's Remnant**
-6.  **Spooked Beasts**
-7.  **A Desperate Prayer**
-8.  **The Festival Loiterer**
-9.  **Left Behind (Combat)**
-10. **Ominous Offering**
-11. **The Worried Hunter**
-12. **The Sun-Stained Child**
-
 ---
 
 ### 1. One Last Game
@@ -32,16 +19,14 @@ This table can be used for random encounters in the town of Westbridge in the da
 - **Challenge:** A character must succeed on two of three DC 15 ranged attack rolls to win.
 - **Prize:** Pippin awards the winner a **Glimmering Lantern**. This bullseye lantern, when lit, functions normally but also reveals spectral outlines of any creature that has passed through its light in the last minute.
 
-### 2. Ghaliver's Gadget Gone Haywire
+### 2. Ghaliver's Gadgets Gone Haywire
 
-> A series of frantic metallic chirps and a woman's surprised shriek draw your attention to a nearby alley. You see one of Ghaliver Longstocking's clockwork critters—a tiny, steam-powered bird—flying in erratic circles, snatching bits of laundry from a clothesline and weaving them into a messy, flapping nest on a nearby roof.
->
-> The bird's owner, a young woman, is desperately trying to coax it down. "Pip, you little menace! Bring back my smallclothes! Oh, thank the gods, can you help? I'm a weaver, not an adventurer. I can offer you a fine traveler's cloak if you can get my laundry back!"
+> A series of frantic metallic chirps suddenly fills the air around you. Before you can react, two of Ghaliver Longstocking's clockwork critters—tiny, steam-powered birds—swoop down with surprising speed. In a flash of whirring gears and flapping metal wings, they snatch (two items) from the (party members) and fly up above you.
 
 **Technical Information:**
 
-- **Challenge:** The malfunctioning clockwork bird can be brought down with a DC 14 Dexterity (Sleight of Hand) check to catch it, a DC 12 Intelligence (Arcana) check to disrupt its enchantment, or by dealing enough damage to knock it out of the air.
-- **Reward:** The owner, Lina, gives the party a **traveler's cloak** (worth 10 gp). If the broken critter is returned to Ghaliver Longstocking, he offers a discount on a future purchase.
+- **Challenge:** The DM chooses 2 items from the party members to be stolen.
+- **Reward:** The party can retrieve their stolen items. If any of the broken critters are returned to Ghaliver Longstocking, he is embarrassed by the malfunction and offers a free item enchantment.
 
 ### 3. The Whispering Well
 
@@ -68,11 +53,17 @@ This table can be used for random encounters in the town of Westbridge in the da
 > "The last warmth of a village's enchanged hearth, defiant against a dragon's frost. A small comfort against the cruel cold."
 
 - Once per day, the holder can speak a command word to create a 15-foot radius of warmth, protecting all within from the effects of extreme cold for 8 hours.
-  **Wraith-Light Lantern (500 gp):** Xylos carefully lifts a battered, salt-stained lantern made of dark, heavy iron. The glass is cloudy and seems to swirl with an inner fog.
-  > "This light shone on a ship of fools who sought to chart a sea of ghosts. It still remembers how to see what is not there."
+
+**Wraith-Light Lantern (500 gp):** Xylos carefully lifts a battered, salt-stained lantern made of dark, heavy iron. The glass is cloudy and seems to swirl with an inner fog.
+
+> "This light shone on a ship of fools who sought to chart a sea of ghosts. It still remembers how to see what is not there."
+
 - Once per day, the user can light this lantern with a command word. For 10 minutes, the lantern casts a dim, grey light in a 30-foot radius. Within this light, the user can see creatures obscured by magic like that granted by the Invisibility spell.
-  **Pyre-Knight's Gauntlet (1000 gp):** He indicates a single, scorched plate-steel gauntlet, blackened as if it was pulled from a fire. The leather beneath the steel is cracked but intact.
-  > "This belonged to a knight who chose to burn with his king. It will not feel the flame again, but it has not forgotten the pain."
+
+**Pyre-Knight's Gauntlet (1000 gp):** He indicates a single, scorched plate-steel gauntlet, blackened as if it was pulled from a fire. The leather beneath the steel is cracked but intact.
+
+> "This belonged to a knight who chose to burn with his king. It will not feel the flame again, but it has not forgotten the pain."
+
 - The wearer of this gauntlet can cast the `Absorb Elements` spell as a reaction (proficiency bonus) times per long rest. When they do, the gauntlet glows with faint embers, and the wearer feels a phantom sensation of intense heat, causing them to have disadvantage on concentration saving throws.
 
 ### 5. A Warlock's Remnant
@@ -97,16 +88,18 @@ This table can be used for random encounters in the town of Westbridge in the da
 
 ### 7. A Desperate Prayer
 
-> You notice a faint, silvery light coming from a small, secluded shrine to Selûne tucked between two buildings. Inside, a young acolyte kneels before a stone bowl filled with water, her voice a desperate whisper as she chants a ritual prayer. As you watch, the clear water ripples and darkens, flashing with a sickening, crimson glow. For a brief moment, you see fleeting images of grasping tentacles and a dying, red star before the water turns black and still. The acolyte flinches back with a gasp, her face pale with terror.
+> You notice a faint, silvery light coming from a small, secluded shrine to Selûne tucked between two buildings. Inside, a young acolyte kneels before a stone bowl filled with water, her voice a desperate whisper as she chants a ritual prayer for Elara, the missing priestess. As you watch, the clear water ripples and darkens, flashing with a sickening, crimson glow. For a brief moment, you see a fleeting image of Elara's own eyes, wide with terror, her pupils dilating to become black, star-filled voids. The vision is gone in a flash, and the water turns black and still. The acolyte flinches back with a gasp, her face pale with terror.
 
 **Technical Information:**
 
-- **Challenge:** A character who succeeds on a DC 14 Intelligence (Arcana) check can help the acolyte stabilize the ritual, granting a clearer vision of a wood elf priestess (Elara) chained before a blood-red star. A successful DC 13 Charisma (Persuasion) check will calm the acolyte enough for her to reveal that she has been having these visions for two days, ever since Elara went missing.
+- **Challenge:** A character who succeeds on a DC 14 Intelligence (Arcana) check can help the acolyte stabilize the ritual, granting a clearer vision that lingers for a moment longer, showing Elara's exhausted face as with a clear view of her Hadar-consumed eyes. A successful DC 13 Charisma (Persuasion) check will calm the acolyte enough for her to reveal that she has been having these visions for two days, ever since Elara went missing.
 - **Reward:** The acolyte will give the party a **Scroll of Protection from Aberrations** in thanks for their help.
 
 ### 8. The Festival Loiterer
 
-> You spot a man in a gaudy sun-and-moon-patterned cloak trying to sell trinkets to a few downtrodden locals. "Guaranteed to hold the last light of the eclipse!" he proclaims, his voice overly cheerful. "A ward against the creeping dark, just ten gold!" A closer look reveals the "wards" are just polished river stones with poorly painted symbols on them.
+> You spot a man in a gaudy sun-and-moon-patterned cloak trying to sell trinkets to a few downtrodden locals. 
+>
+>"Guaranteed to hold the last light of the eclipse!" he proclaims, his voice overly cheerful. "A ward against the creeping dark, just ten gold!"
 
 **Technical Information:**
 
@@ -116,36 +109,37 @@ This table can be used for random encounters in the town of Westbridge in the da
 
 ### 9. Left Behind (Combat)
 
-> You hear a strange, wet, chittering sound coming from Ghaliver Longstocking's main warehouse, its large door slightly ajar. Inside, crates and barrels have been smashed open, their contents spilled across the floor. The air is thick with the smell of brine and something else, something foul. A viscous black ichor coats the floor in patches, and in the center of the room, a horrifying creature made of mouths and shadowy tendrils slithers and gibbers in the darkness.
+> A loud crash and the terrified shriek of a gnome echo from Ghaliver Longstocking's main warehouse, its large door hanging splintered on its hinges. Inside, crates and barrels have been smashed open. In the center of the room, you see the renowned artificer Ghaliver Longstocking struggling against a hulking, shadowy creature with a wide, toothy maw. As you watch, the creature overpowers the gnome and begins forcing him into its gaping mouth.
 
 **Technical Information:**
 
-- **Creature:** The creature is a **Gibbering Mouther**. The ichor on the ground makes any space it covers difficult terrain.
-- **Reward:** After the creature is defeated, a search of the warehouse reveals a **warped lockpick** made of a strange, dark metal clutched in one of the creature's mouths. This lockpick gives advantage on Dexterity checks made to open locks that have been magically sealed.
+- **Creature:** The creature is a **Banderhobb**. a hag summoned this creature. Its duty is to abduct Ghaliver and deliver him to the hag. The Banderhobb will attempt to use its Shadow Step to escape with Ghaliver.
+- **Reward:** If the party defeats the Banderhobb and rescues Ghaliver, the artificer is profoundly grateful. Once he has recovered, he will offer to enchant any one of the party's non-magical items (a weapon or a suit of armor) with a +1 bonus.
 
-### 10. Ominous Offering
+### 10. The Glimmering Geode
 
-> As you pass the Eclipse Well, you spot something out of place lying on the central stone platform. It is a dead crow, its black feathers stark against the grey stone. A strange, angular symbol has been precisely carved into its breast, and its eyes have been replaced with small, perfectly smooth stones that seem to absorb the light, making them appear as tiny voids.
-
-**Technical Information:**
-
-- **Challenge:** A DC 14 Intelligence (Religion) or (Arcana) check reveals the symbol is a devotional sigil used in rituals to contact entities from the Far Realm. A DC 15 Medicine check reveals the bird was not physically harmed, but instead appears to have died of fright.
-- **Information:** The stones are mundane obsidian, but the ritualistic nature of the sacrifice is a clear sign that someone aligned with Hadar is still in Westbridge and is actively performing rituals.
-
-### 11. The Worried Hunter
-
-> Kaelen, the stern-faced master archer who oversaw the Sunshot Archery Contest, approaches you. Her usual stoic demeanor is gone, replaced by a barely concealed anxiety. "You're the ones Avon trusted, yes? My hunting partner, Borin—the big man from the Sunstone Challenge—he went into the Kryptgarden Forest two days ago. He was convinced he could track those undead back to their source after his last party was attacked. He's a fool, but he's my fool. I need your help to find him."
+> You spot a beautiful, fist-sized geode sitting on a bench, as if left behind by a careless festival-goer. It is cracked open, revealing a mesmerizing interior of glittering, purple crystals. It seems entirely out of place amidst the fearful, downtrodden atmosphere of the town.
 
 **Technical Information:**
 
-- **Quest Hook:** Kaelen can provide the party with a rough map of the area Borin was last seen in, marking a clear starting point for a search in the Kryptgarden Forest.
-- **Reward:** Kaelen offers the party her **+1 Longbow** if they can bring Borin back to Westbridge safely.
+- **Challenge:** A DC 14 Intelligence (Arcana) check reveals that the geode is emanating a faint aura of divination magic. A DC 15 Wisdom saving throw made while holding the geode reveals that the glittering points are not crystals, but a cluster of tiny, scrying eyes that all turn to look at the holder. A character who succeeds on this check must make a DC 13 Wisdom saving throw or be frightened for 1 minute.
+- **Reward:** Peering Geode: When you reveal this item to a creature, it peers into the target as well as the user. You both must make a DC 10 Wisdom saving throw. If the target fails, they are frightened of you for 1 minute. If you fail, you are frightened of the target for 1 minute
+
+### 11. The Mourner's Token
+
+> At the edge of town, near the path that leads to the Kryptgarden Forest, you see a middle-aged woman in simple, worn clothes weeping quietly at a small, makeshift shrine. She places a polished silver locket on the shrine and whispers a name before turning to leave, her face etched with grief.
+
+**Technical Information:**
+
+- **Challenge:** If approached, the woman (Elspeth) explains that her husband was a hunter who went missing in the forest two tendays ago. She has given up hope and is leaving his favorite locket as an offering to the gods to guide his soul. You recall Avon mentioning a lost hunting party from that time.
+- **Item:** The party is faced with a moral choice. If they take the locket, a DC 14 Intelligence (Arcana) check reveals it has a faint, but persistent, enchantment of tracking, making it an ideal target for a `Locate Object` spell. The woman is unaware of this property.
 
 ### 12. The Sun-Stained Child
 
-> You see a small child sitting alone on the steps of Lathander's church, humming a discordant tune that sends a shiver down your spine. They are clutching a stale, sun-shaped pastry from the festival. When they see you, they smile. "A new sun-man gave this to me. He said he's a friend of Avon's and that he's going to make everything bright again." As the child looks up, you notice a faint, sickly red tint to their eyes.
+> You see a small human child (Linus), perhaps seven years old, sitting alone on the steps of Lathander's church. Their simple clothes are disheveled and their cheeks are smudged with dirt. They are eerily calm, rocking gently back and forth while humming a discordant, looping melody that sends a shiver down your spine. They clutch a stale, sun-shaped pastry to their chest like a precious doll. When they see you, they look up, and their wide, unnervingly bright eyes have a faint, sickly grey/brown tint. They offer a placid smile and speak in a flat, emotionless tone. 
+>
+>"A new sun-man gave this to me. He said he's a friend of Avon's and that he's going to make everything bright again."
 
 **Technical Information:**
 
 - **Challenge:** A DC 14 Wisdom (Insight) check reveals the child is telling the truth as they know it, but seems unnaturally calm and cheerful. A DC 15 Intelligence (Arcana) check on the pastry reveals it has been laced with a mild enchantment that fosters compliance and trust toward one individual.
-- **Information:** This is a clue that a cultist of Hadar is actively trying to infiltrate the Westbridge community, likely by preying on the children and the desperate. The child can give a vague description of the "sun-man" (a charismatic man in golden-yellow robes that are slightly stained at the hem).

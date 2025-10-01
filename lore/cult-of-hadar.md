@@ -1,0 +1,9 @@
+# Cult of Hadar Lore
+
+Hadar, The Dark Hunger:
+An ancient Elder Evil from the Far Realm, Hadar manifests not as a creature of flesh, but as a malevolent, dying star. It hangs in the void, a cinder-red point of light that flickers and dances with a sickening rhythm, unlike any other star in the night sky. Driven by a desperate and insatiable hunger to escape its own slow annihilation, Hadar projects its influence across the cosmos, sending its Heralds to Toril to feast on the life force of mortals. It is a being of immense and unknowable power, promising dark gifts to those warlocks who are mad enough to seek its patronage, twisting their bodies and minds to serve its all-consuming hunger.
+
+Hadar's Influence:
+Hadar's power is one of personal, internal corruption, not an environmental contagion. It does not infest the land, create mindless monsters from local fauna, or spread like a disease. Instead, it is a focused, pact-based power that twists the soul and body of the individual who accepts it. Any creatures of Hadar found in the world are either summoned servants, created thralls, or individuals who have willingly entered into a pact. Its influence is a cancer of the soul, not a plague upon the world.
+
+Heralds of Hadar - The Heralds are not monsters, but ordinary people who have made a desperate pact with an ancient entity in exchange for power. Each was driven to Hadar's service by a profound, personal crisis—a desire to protect a loved one, a thirst for knowledge, or a need to escape a life of powerlessness. Their motivation is now singular: they hunt powerful beings to feed their patron's insatiable hunger. They are not interested in sowing random chaos, corrupting the innocent, or building a terrestrial power base. Their actions, while seemingly evil, are focused solely on this grim purpose. Once their target is acquired, they have no further reason to linger in a region or influence its people.

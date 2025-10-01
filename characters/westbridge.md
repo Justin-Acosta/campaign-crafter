@@ -1,3 +1,5 @@
+# Westbirdge Characters
+
 Avon:
 Avon is a human man in his late fifties, with a kind, weathered face framed by short, graying hair that catches the light like spun gold. His robes are the color of a sunrise, simple yet immaculate, and he carries himself with the gentle authority of a beloved community leader. He often speaks with his hands clasped before him, only gesturing to emphasize a point of particular importance. His voice is a calm and measured baritone, but a quiet urgency enters his tone when he speaks of the temple, betraying the deep worry beneath his serene exterior.
 

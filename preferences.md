@@ -10,8 +10,6 @@
 
 - If i attach a snippet from a file and say a phrase like "modify this" or "create a summary for this section", I am referring to the attached snippet and I only want that snippet adjusted.
 
-- When describing a character, include their race, appearance, mannerisms, and tone of voice. Include the character's name in parenthesis.
-
 - The `rules/context.md` file is intended to be the primary source of campaign context. It should be structured as an effective, quick-reference guide about the campaign's setting, characters, and plot.
 
 - Preferences in this file should always relate to the way that the model assists, not the actual story content.
@@ -19,3 +17,7 @@
 - When creating content like encounters, minimize DM-only descriptive text. Integrate necessary details and context directly into the read-aloud text. Place mechanical information, such as skill check DCs or specific triggers, in a separate 'Technical Information' section below the main description.
 
 - When creating read-aloud text for npc's, the npc's are allowed to use profanity and take crazy socially unacceptable actions if it fits their character. They should not all act this way, but some of them should! Get creative and sometimes slightly off the rails when creating npc's.
+
+- Avoid having NPCs offer explicit rewards upfront when asking for help. Rewards should be presented organically after the assistance has been rendered to feel more authentic.
+
+- IMPORTANT: When describing a character, you MUST include their race, appearance, mannerisms, and tone of voice. Include the character's name in parenthesis.
