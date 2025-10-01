@@ -110,29 +110,47 @@ This table can be used for random encounters within the Kryptgarden Forest.
 - **The Lair:** The area has patches of thick webbing, making it difficult terrain. A creature that starts its turn in the webs or enters them on its turn must succeed on a DC 12 Dexterity saving throw or be restrained. A restrained creature can use its action to make a DC 12 Strength check, freeing itself on a success.
 - **Spotting the Ambush:** Characters who actively search the canopy can make a DC 15 Wisdom (Perception) check. On a success, they spot the dark, multi-eyed shapes of the spiders hiding among the leaves and webs before they attack. This prevents the party from being surprised. If the party proceeds without searching, the spiders gain a surprise round.
 - **Creatures:** 2 **Giant Spiders** and 4 **Spider Swarms** descend from the canopy to attack.
-- **Reward:** One of the cocooned bodies is a recently captured bandit. If freed, he is grateful and offers the party a **Treasure Map** he was carrying. The gleaming treasure is the **Circlet of Verdant Shaping**. This silver circlet allows the wearer to use an action to touch and magically shape a 20-foot cube of non-creature plant life (vines, undergrowth, etc.) into simple forms that last for 1 hour. This property can be used a number of times equal to the wearer's proficiency bonus, and all expended uses are restored daily at dawn.
+- **Reward:** The party receives 2 **Giant Spider Venom**. The gleaming treasure is the **Circlet of Verdant Shaping** This silver circlet allows the wearer to use an action to touch and magically shape a 20-foot cube of non-creature plant life (vines, undergrowth, etc.) into simple forms that last for 1 hour. This property can be used a number of times equal to the wearer's proficiency bonus, and all expended uses are restored daily at dawn.
 
 ### 8. The Grumpy Herbalist
 
-> You come across a small, ramshackle hut built into the side of a large, moss-covered hill. A plume of pungent, green smoke rises from a crooked chimney. The air is thick with the smell of herbs, some pleasant, some… not. The sound of someone loudly and profanely cursing at a bubbling cauldron can be heard from within. As you approach, the door creaks open, and a wiry, wild-haired old man with a long, tangled beard and spectacles perched on the end of his nose glares at you. His robes are stained with a rainbow of unidentifiable substances. He is a human of about 60 years of age named (Fendrel).
+> As you approach a small, ramshackle hut built into the side of a large, moss-covered hill, the air thickens with pungent smoke and a wild mix of herbal smells.
 >
-> "What? Can't you see I'm busy? The spleenwort is refusing to emulsify, and the moonpetal is sweating like a sinner in a sermon! If you're here for some nonsense quest or to sell me some thrice-damned trinket, you can piss right off. If you've got giant spider venom, though… that’s another story. Now, state your business before you curdle my potion!"
+> "Boil, you thrice-damned bladderwrack! Emulsify, you son of a troll's backside!"
+>
+> silent
+>
+> The door suddenly creaks open, and a wiry, wild-haired old man glares out, his beard tangled and spectacles perched on his nose. His robes are a testament to a hundred alchemical spills. He is a human of about 60 years of age (Fendrel).
+>
+> "What in the Nine Hells do you want? Can't you hear I'm in the middle of a delicate bloody process? The moonpetal is sweating, and this pustulent spleenwort won't mix so, if you're not here with giant spider venom, you can piss right off. Now, what is it."
 
 **Technical Information:**
 
 - **Social Encounter:** Fendrel is a crotchety but brilliant alchemist who has been exiled from polite society for his… explosive experiments. He is impatient and rude, but he is not evil. He is a valuable source of information about the forest's flora and fauna.
-- **Quest Hook:** If the party has giant spider venom (perhaps from **The Weaver's Ambush**), he will eagerly trade them for it. He offers them a choice of one of the following: a **Potion of Healing (Greater)**, a **Potion of Animal Friendship**, or a **vial of potent acid**. If they don't have the venom, he might task them with getting some, promising a reward in return.
+- **Quest Hook:** If the party has giant spider venom (perhaps from **The Weaver's Ambush**), he will eagerly trade them for it.
+- **Reward:** He offers them the following potent concoctions from his personal stash: a **Potion of Superior Healing**, a **Potion of Invisibility**, or a **Potion of Speed**. If they don't have the venom, he might task them with getting some, promising a reward in return.
+
+### 9. The Corpse Violets
+
+> You enter a clearing where the oppressive canopy of the forest opens up, allowing sunlight to dapple the forest floor. The area is carpeted with beautiful, fist-sized violets of an unnaturally deep purple color. The air is surprisingly sweet here, a welcome change from the damp scent of the woods. In the center of the grove, a single skeleton lies half-buried in the rich soil, its bony fingers clutching a tarnished silver locket. The skeleton has a delicate, slender frame marking it as elven.
+
+**Technical Information:**
+
+- **Lore:** The violets are a form of parasitic fungus that thrives on necrotic energy. They are often cultivated by ghouls, whose insatiable hunger draws them to places of death. Ghouls were once elves who were cursed for cannibalism, and their hunger for humanoid flesh—especially elven flesh—is a mockery of their former lives. A successful DC 14 Intelligence (Religion) or (History) check reveals this dark history.
+- **The Trap:** When the party enters the clearing, the 2 **Ghouls** are already present, kneeling over the elven skeleton and chanting in a guttural language while tracing glowing purple runes on the ground. The air crackles with necrotic energy. If the party does not intervene, at the end of the third round of chanting, the skeleton's spirit will be consumed, and the ghouls will become **Empowered Ghouls** (gaining +10 hit points and dealing an extra 1d6 necrotic damage on their attacks).
+- **The Ambush:** When the party reveals themselves, 4 **Zombies** erupt from the soil around them. The ghouls will shriek and fight viciously to defend their ritual. A ghoul that takes any damage must make a DC 10 Constitution saving throw to maintain concentration on the ritual. If both ghouls lose concentration, the ritual fails.
+- **Reward:** On the skeleton's remains, the party finds a small pouch containing 80 gp and a **Memento Mori**. This is a small raven skull intricately carved with elven symbols. It can hold 1 charge, which can be used to cast the `Speak with Dead` spell. At dusk, roll 1d2. On a 2, the item gains 1 charge.
 
 ### 11. The Wounded Satyr
 
-> Laughter and a pained cry echo through the trees. You find a satyr (Filo) with his leg caught in a crude, iron trap. Three goblins are tormenting him, poking him with their spears and laughing at his struggles. The satyr has goat-like legs, a wiry human torso, and a pair of small horns on his head. His face is a mask of pain and fury.
+> A sound of cruel, high-pitched laughter mixed with a pained, furious cry cuts through the forest ahead. As you push through the undergrowth, you see three green-skinned goblins. The creature, a satyr (Filo) with shaggy goat-like legs and small horns poking from his tangled brown hair, has one leg caught in the iron teeth of a crude trap. The goblins jab at him with their rusty spears, cackling as he struggles. His face is contorted, his teeth bared in a snarl of agony and rage.
 >
-> "Release me, you foul little warts!" he snarls, his voice a mix of a bleat and a growl. "When I get out of this, I'll turn your bones into panpipes and play a jig at your funeral!"
+> "Release me, you foul little warts! When I get out of this, I'll turn your bones into panpipes and play a jig at your funeral!"
 
 **Technical Information:**
 
 - **Combat/Social:** The party can intervene. The three **Goblins** are not expecting a fight and are easily surprised. They will flee if one of them is killed.
-- **Reward:** If the satyr is freed, he will be suspicious but grateful. After a moment of consideration, he offers the party a drink from his wineskin. The wine is enchanted; anyone who drinks it gains the benefits of the `Bless` spell for 1 hour. He will also give them a tip: "Stay clear of the old temple to the north. It used to be a place of moonlight, but now something dark and hungry stirs there." This is a reference to the Temple of Selûne.
+- **Reward:** If the satyr is freed, he will be suspicious but grateful. After a moment of consideration, he offers the party a drink from his wineskin. The wine is enchanted; anyone who drinks it gains the benefits of the `Bless` spell for 1 hour. He will also give them a tip: "Stay clear of the old temple to the north. It used to be a place of moonlight, but now something dark stirs in there." This is a reference to the Temple of Selûne.
 
 ### 12. The Ancient Battlefield
 
