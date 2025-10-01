@@ -10,120 +10,135 @@ This table can be used for random encounters within the Kryptgarden Forest.
 
 ### 1. The Dragon's Shadow
 
-> A shadow falls over you, vast and swift, blotting out the sun for a moment. High above, a colossal winged shape soars through the canopy, its green scales dappled by the filtered light. The creature is ancient, its movements powerful and deliberate. It circles once, its unseen eyes seeming to pierce the dense leaves, before it disappears as silently as it arrived. A single, enormous, emerald-green scale drifts down from the canopy, landing softly on the forest floor near your feet.
+> The canopy above you suddenly darkens, and a rush of displaced air sends leaves scattering across the forest floor. A colossal shape, big as a house, glides through the upper branches, its passage marked by the groaning of ancient boughs. Sunlight catches on scales the color of emeralds and malice, dappling the ground in shifting green light. The form circles once overhead, a silent, predatory inspection, before it vanishes back into the dense foliage. A moment later, a single, plate-sized green scale detaches from the canopy and thuds into the soft earth at your feet.
 
 **Technical Information:**
 
-- **Creature:** This is Claugiyliamatar, "Old Gnawbone," the ancient green dragon who lairs in the forest. She is not hunting the party, merely observing her territory.
+- **Creature:** This is, "Old Gnawbone," (Claugiyliamatar) the ancient green dragon who lairs in the forest. She is not hunting the party, merely observing her territory.
 - **Item:** The **Dragon's Scale** is a trophy. A character proficient with Smith's Tools, Leatherworker's Tools, or Woodcarver's Tools can embed the scale into a shield or piece of armor. After 8 hours of work, the item grants its wearer resistance to poison damage. This process consumes the scale.
 
-### 2. Whispers of the Lost Citadel
+### 2. The Hunter's Predicament
 
-> You stumble upon a series of massive, moss-covered stones that are clearly the remains of a collapsed wall. A DC 12 Intelligence (History) or Wisdom (Perception) check confirms these are dwarven ruins. As you explore the area, a cold spot in the air draws your attention. From the chill, a ghostly apparition of a dwarven warrior forms. It does not speak, but points a spectral finger towards a nearby rockslide, its expression one of desperate urgency, before fading away.
+> You come across a small, recently abandoned campsite huddled in a grove of ancient oaks. A bedroll is laid out next to a cold fire pit, and a half-eaten ration lies on a log, a hunting knife stuck in the wood beside it as if left in a hurry. The area is quiet—too quiet.
 
 **Technical Information:**
 
-- **Challenge:** The rockslide can be cleared with 4 hours of work by one person, or less with more people. A successful DC 15 Strength (Athletics) check can speed up the process.
-- **Reward:** Behind the rockslide is the entrance to a small, forgotten dwarven crypt. Inside are the skeletal remains of three dwarves. One of them clutches a **Dwarven Thrower** warhammer. Taking the hammer will cause three **Specters** (the spirits of the dwarves) to rise and attack, their ethereal voices crying out in Dwarvish about thieves.
+- **Investigation:** A successful DC 12 Wisdom (Survival) check reveals two sets of tracks leading away from the camp. One set belongs to a human, the footprints deep and erratic, suggesting a struggle. The other tracks are from a large, heavy biped with clawed feet, digging deep into the soft earth.
+- **Tracking:** Following the tracks for about 20 minutes leads to a foul-smelling, vine-choked cave entrance set into a rocky hillside.
+- **The Cave:**
+  > A low, guttural grumbling echoes from within the foul-smelling cave, punctuated by the thud of something heavy being prodded. Peeking inside, you see a hulking, green-skinned troll standing over a crude burlap sack. The sack shifts, and a pained groan escapes it. The troll pokes it again with a long, dirty claw, muttering to itself in a gravelly voice, "Boil 'im? No, too stringy. Fry 'im with onions? Yyyeeahhh... need to find... onions"
+- **Technical Information:** The **Troll** is distracted and can be surprised by characters who succeed on a DC 13 Dexterity (Stealth) check.
+- **The Hunter (Corbin):**
+  > Once freed from the sack and roused, the hunter groans and pushes himself into a sitting position. He’s a man in his late 30s with a weathered face and a scruffy beard, clad in practical, well-worn leather gear. He takes a moment to get his bearings, his eyes scanning the party with a calm that seems out of place for someone who was just about to be dinner. His voice is low and steady when he speaks.
+  >
+  > "That was… close. Name's Corbin. Thank you. I owe you one." He gives a short, appreciative nod. "I can make my own way back to Westbridge from here. If you're ever in town, find me. I don't forget a debt."
+- **Technical Information:** Corbin is a human **Scout** and is at 1 hit point when rescued.
+- **Reward:** The troll has a small hoard of treasure (45 gp and a silvered shortsword). As thanks, Corbin offers the party a crude map from his leather satchel, explaining that it leads to a small cache of supplies he keeps hidden in the woods.
 
-### 3. The Feywild Crossing
+### 3. The Forgotten Shrine
 
-> The path ahead seems to shimmer and twist. The air grows thick with the scent of unfamiliar blossoms and the sound of faint, otherworldly music. The trees around you are no longer the dark oaks of Kryptgarden; they are vibrant, glowing with bioluminescent fungi. You have accidentally stumbled upon a temporary crossing into the Feywild. A beautiful, humanoid creature with butterfly wings (a Pixie) flutters before you.
+> You find a small, crescent-shaped clearing where the moonlight seems to pool, even in the daytime. In the center stands a crumbling stone shrine, overgrown with moss and silver-leafed ivy. A carving of a woman’s face with two gentle eyes, surrounded by a circle of five stars, is barely visible on the stone. Below it, a short inscription is carved in the rock. At the base of the shrine sits a small, tarnished silver box, its lid featuring a rotating ring of seven symbols depicting different phases of the moon.
 >
-> "Lost, little mortals?" it chirps, its voice like tiny bells. "The veil is thin today. For a trinket, a memory, or a song, I might show you the way back. Or perhaps, a shortcut through my woods?"
+> The inscription reads: "From darkness I am born anew, to glorious light I ascend. My five faces watch the night, speak my silvered cycle."
 
 **Technical Information:**
 
-- **Challenge:** The pixie is mischievous but not malicious. It will accept any heartfelt gift—a pretty rock, a personal story, or a song. If the party is rude or attacks, it will disappear, and they must navigate the confusing Feywild terrain. This requires a DC 14 Wisdom (Survival) check to escape; on a failure, they wander for 1d4 hours before finding their way back, emerging 1d4 miles in a random direction from where they entered.
-- **Shortcut:** If the party appeases the pixie, it will lead them on a twisting path that seems to defy logic. They will emerge from the Feywild crossing having traveled 5 miles in their intended direction in only 15 minutes.
+- **Puzzle:** The puzzle requires the players to speak the names of the moon phases in the correct order, as described by the inscription. The inscription hints at the waxing phase of the moon, from new to full. As each correct phase is spoken aloud, the corresponding symbol on the silver box glows with a faint light.
+- **Solution:** The players must speak the words: "New Moon, Waxing Crescent, First Quarter, Waxing Gibbous, Full Moon." The phases must be spoken in the correct order.
+- **Feedback:** If a wrong phase is named or the order is incorrect, the glowing symbols on the box fade, and the players must wait until the next dusk to try again.
+- **Reward:** Inside the box, nestled on a bed of faded velvet, is one of the following items (DM's choice):
+  - **Crescent Charm:** This small, silver charm is shaped like a perfect crescent moon and gives off a soft, cool light. Once per night, the wielder can use it to cast the `Moonbeam` spell (spell save DC 13).
+  - **Starlight Cloak:** A dark blue cloak, embroidered with silver thread that faintly glimmers. While wearing this cloak in dim light or darkness, you have advantage on Dexterity (Stealth) checks. In addition, you can use an action to cast `Faerie Fire` (spell save DC 13) from the cloak. This property can't be used again until the next dusk.
+  - **Shield of the Lunar Watch:** A silvered shield etched with the phases of the moon. As a bonus action, you can cause the shield to shed dim light in a 10-foot radius and emanate a divine aura. While the shield is glowing, you can use your reaction to give yourself or a creature within a 10-foot radius advantage on 1 saving
 
-### 4. The Corrupted Treant
+### 4. The Fungi Grove
 
-> You enter a clearing where the trees are sickly and leafless. The ground is spongy and damp, covered in a black, slimy fungus. In the center of the clearing stands a massive, gnarled Treant. Its bark is peeling away to reveal wood that looks rotten and diseased, and a foul-smelling black sap oozes from cracks in its body. It is not moving, but you can feel a palpable aura of malice and pain emanating from it. Several small, twisted shapes lie at its feet. As you draw closer, they stir—three **Twig Blights** and two **Vine Blights**.
-
-**Technical Information:**
-
-- **Creature:** The Treant is corrupted. It does not attack unless the party approaches within 30 feet or attacks the blights. It has the standard **Treant** stat block, but its attacks deal an additional 1d6 necrotic damage.
-- **Reward:** If the Treant is defeated, the party can investigate the source of the corruption. A DC 15 Intelligence (Nature) or Wisdom (Medicine) check reveals a shard of dark, obsidian-like rock embedded in its heart. If the shard is removed, it crumbles to dust. The clearing will begin to heal over the next few days. A grateful **Dryad** who was bound to a nearby tree will appear and gift the party a **Charm of Restoration**.
-
-### 5. The Orifice to the Underdark
-
-> The ground begins to slope downwards, and the air grows colder and carries the scent of damp earth and decay. You come to the edge of a vast, gaping chasm in the forest floor, its depths shrouded in absolute darkness. This is "the Orifice," a known passage to the Underdark. A strange, clicking sound echoes from below. Scrabbling up the side of the chasm are two **Ettercaps**, their multiple eyes gleaming in the dim light. They seem to be fleeing from something deeper within.
-
-**Technical Information:**
-
-- **Combat:** The Ettercaps are panicked. They will attack the party on sight, viewing them as a threat to their escape.
-- **Further Danger:** If the party lingers for more than a minute after the fight, the source of the Ettercaps' fear reveals itself: a **Drider** climbs out of the Orifice, angry that its prey escaped. It will immediately target the party.
-
-### 6. The Time-Lost Elf
-
-> You encounter a lone elf, clad in armor of a style you've never seen before—it seems to be made of sculpted wood and leaves. He carries a bow carved from a single piece of yew. His eyes are wide with confusion and wonder. He introduces himself as Laeron, a scout from the ancient elven realm of Eaerlann. He claims to have been on patrol moments ago, but now his home is gone, and the forest feels... different.
->
-> "The trees... they feel older," he says, his voice filled with disbelief. "What year is this? What has become of my people?"
-
-**Technical Information:**
-
-- **Roleplaying:** Laeron has been magically transported through time from thousands of years in the past. He is a skilled **Scout** but is completely lost. He can provide incredibly detailed, but outdated, information about the forest's history.
-- **Quest Hook:** He asks the party to guide him to any elven settlement they know of. If they agree, he will travel with them. He is an excellent guide within the forest, granting the party advantage on Wisdom (Survival) checks to navigate.
-
-### 7. Old Gnawbone's Larder
-
-> The smell of death hangs heavy in the air. Following the scent, you discover a gruesome sight: the carcass of a massive Owlbear, impaled on the sharpened branches of a tall oak tree, some 30 feet in the air. The creature has clearly been killed by something far larger and more powerful. A DC 13 Wisdom (Survival) or Intelligence (Nature) check reveals bite and claw marks consistent with a huge dragon. The area is littered with the bones of other large predators. This is a grisly larder for the forest's apex predator.
-
-**Technical Information:**
-
-- **Challenge:** The Owlbear's body is a source of valuable alchemical ingredients. A character can climb the tree with a DC 14 Strength (Athletics) check. A successful DC 15 Wisdom (Survival) check allows them to harvest 1d4 **Owlbear Feathers** and a **Beak of the Owlbear**.
-- **Risk:** There is a 25% chance that Claugiyliamatar returns to her larder while the party is there. She will not be pleased to find them stealing from her kill and will demand tribute (a magic item or a significant amount of gold) to let them leave peacefully.
-
-### 8. The Crooked Path
-
-> You find yourselves on a path where the trees are unnaturally bent and twisted, forming a tunnel-like passage through the woods. The light here is dim, and the air is still. This is the "Crooked Forest," a place shaped by ancient magic. As you walk, you realize the path is subtly shifting. A DC 14 Wisdom (Perception) check reveals that the trees are slowly moving, trying to guide you somewhere.
-
-**Technical Information:**
-
-- **Puzzle:** The trees are attempting to guide the party to the Emerald Hollow (Encounter 9). If the party resists or tries to leave the path, the trees will animate. Two **Awakened Trees** will block their path, attempting to herd them back onto the crooked trail non-lethally. They will only attack if the party attacks first.
-- **Reward:** If the party follows the path, they will be led safely to the Emerald Hollow.
-
-### 9. The Emerald Hollow
-
-> The Crooked Path opens into a beautiful, sun-dappled clearing. In the center is a small, crystal-clear pond, and the air hums with a gentle, calming energy. This is the Emerald Hollow, a place sacred to the druids of the region. A venerable-looking half-elf in simple green robes (Elara, a Druid) sits meditating by the pond. She opens her eyes and offers a serene smile.
->
-> "Welcome, travelers. It is rare for the forest to guide outsiders here. What do you seek in this ancient place?"
-
-**Technical Information:**
-
-- **Interaction:** Elara is a guardian of the Hollow. She is willing to share information about the forest and may offer healing to the party if they are respectful.
-- **Blessing of the Hollow:** If the party is kind and respectful, Elara will invite them to drink from the pond. Any character who drinks the water gains the benefits of a `Lesser Restoration` spell and 2d4+2 temporary hit points.
-
-### 10. The Fungi Grove (Combat)
-
-> You enter a grove where the trees are covered in massive, glowing mushrooms of all colors. The air is thick with spores. As you move through the grove, you see several humanoid figures shambling about—they appear to be loggers or hunters, but their skin is pale, and their eyes are vacant. Fungi and mushrooms sprout from their bodies. As you get closer, they turn towards you, their movements jerky and unnatural. Three **Spore Servants** and one **Violet Fungus** attack.
+> Ahead, the forest transforms into a bizarre garden of phosphorescence. Massive mushrooms, glowing in vibrant shades of blue, purple, and green, sprout from the trees and the forest floor, bathing the area in an ethereal light. The air is thick with sweet-smelling spores that shimmer as they dance in the multicolored glow. You see figures moving slowly through the grove. Their clothes are those of hunters or loggers, but their movements are jerky and unnatural. You see patches of colorful fungi that sprout from their pale skin, and their eyes are vacant, milky-white orbs. As one, they turn to face you, and a low, guttural moan escapes their lips.
 
 **Technical Information:**
 
 - **Hazard:** The air is thick with spores. Any creature that starts its turn in the grove must succeed on a DC 11 Constitution saving throw or become poisoned for 1 minute.
-- **Reward:** A search of the bodies reveals a pouch with 34 gp and a finely made handaxe. The glowing mushrooms can be harvested. A successful DC 14 Intelligence (Nature) check allows a character to identify mushrooms that can be used as components for a `Potion of Growth`.
+- **Reward:** A search of the bodies reveals a pouch with 34 gp, a finely made handaxe, and a `Potion of Growth`. The glowing mushrooms can be harvested. A successful DC 14 Intelligence (Nature) check allows a character to identify mushrooms that can be used as components for a `Potion of Growth`.
 
-### 11. The Collector of Scars
+### 5. The Verdant Vendor (Merchant)
 
-> You meet a strange merchant on the path. He is a tall, gaunt man with skin like polished obsidian and eyes that seem to hold a galaxy of stars (a Shadar-kai). He pushes a cart made of bone and shadows, filled with oddities. He introduces himself as Xylos.
+> Ahead, you see a figure that seems to have grown from the forest floor itself. Seated on a large, mossy stone is a firbolg (Fell) of indeterminate age. Her skin has the rough, textured appearance of weathered bark, and her long hair is a cascade of living green leaves and twigs, interwoven with small, white blossoms. Her movements are slow and deliberate, as if she operates on the same timescale as the ancient trees around her. As you approach, she turns her head, and her calm, grey eyes, the color of a stormy sky, settle on you. A slow smile touches her lips, but it doesn't quite reach her eyes, which remain placid and unreadable. The items arranged before her on a worn leather cloth seem to pulse with a faint, natural energy. She speaks, her voice low and melodic, like the rustling of leaves.
 >
-> "I trade in experiences," he says, his voice a dry whisper. "A moment of pure terror, the lingering ache of a near-fatal wound, the ghost of a forgotten joy. I will trade you a piece of my collection for a scar of yours, and the story that goes with it."
+> "The forest provides for those who respect it. Perhaps it has provided something for you today."
 
 **Technical Information:**
 
-- **Merchant:** Xylos offers to trade magical items for "scars"—not just physical ones, but emotional and magical ones as well. A player can describe a significant injury or traumatic event their character experienced. Xylos will listen intently, and if the story is compelling, he will offer a trade.
-- **Wares:**
-  - **Bottled Scream (50 gp):** A corked bottle containing a swirling grey mist. When opened, it releases a terrifying scream. Any creature within 10 feet must make a DC 13 Wisdom saving throw or be frightened for 1 minute.
-  - **Stone of Shared Sorrow (250 gp):** A smooth, grey stone that is cool to the touch. Once per day, you can touch it to a creature. That creature must make a DC 14 Charisma saving throw. On a failure, it is overcome with a profound sense of sadness and has disadvantage on attack rolls and ability checks for 1 minute.
-  - **Last Stand Armor Stud (1000 gp):** A small, iron stud that can be attached to a suit of armor. The first time the wearer would be reduced to 0 hit points, they instead drop to 1 hit point. This property can be used once, and the stud becomes non-magical afterward. Xylos will only trade this for a story of a truly heroic sacrifice or a near-death experience.
+**Wares:**
+**Seed of Awakening (item of value):** Fell holds up a simple acorn that seems to vibrate with a faint inner light.
 
-### 12. The Hunters and the Hunted
+> "A slumbering giant in a tiny shell. Plant it, give it a piece of your will, and see what the forest remembers."
 
-> The sound of a hunting horn echoes through the trees, followed by the baying of hounds. A moment later, a magnificent stag with antlers that seem to shimmer with silver light crashes through the undergrowth, its eyes wide with panic. It is closely followed by three grim-faced hunters in dark leather armor, accompanied by two **Mastiffs**. The lead hunter (a **Veteran**) shouts, "It's a celestial beast! Its pelt will fetch a fortune! Don't let it escape!"
+- When this seed is planted in fertile ground and the user concentrates on it for 1 minute, it sprouts into an **Awakened Shrub**. The awakened plant is friendly to the user and their companions and will obey their commands.
+
+**Whisperwood Flute (item of value):** She gestures to a simple wooden flute carved from a pale, smooth wood.
+
+> "The trees have many secrets. This flute can help you ask them."
+
+- A creature who plays this flute can cast the `Speak with Plants` spell. The flute has 2 charges. At dawn, roll 1d2. A roll of 2 gives the flute 2 charges.
+
+**Grasping Arrow(5) (item of value):** She points to a quiver of arrows fletched with dark green feathers and tipped with sharpened wood that seems to writhe slightly.
+
+> "Not all who wander this forest should be met with steel. Sometimes, a firm hand is better than a sharp point."
+
+- When a Grasping Arrow is fired from a bow, the user can speak a command word. The arrowhead transforms into a mass of thorny vines upon impact. If the target is a Large or smaller creature, it must succeed on a DC 14 Strength saving throw or be restrained for 1 minute. The creature can use its action to make a DC 14 Strength check, freeing itself on a success.
+
+### 6. The Huntsman and the Hind
+
+> A sharp blast from a hunting horn, impossibly clear and melodic, cuts through the woods. Crashing through the undergrowth, a magnificent stag bursts into view. Its antlers seem to be made of polished silver, and its coat shimmers with an otherworldly light as it flees in a panic. A moment later, a figure on a proud, white charger bursts through the foliage in hot pursuit. The rider is a human male of almost blinding handsomeness, his golden hair perfectly coiffed despite the chase. His plate armor is so polished it reflects the forest canopy, and a brilliant purple cape billows behind him. He pulls his steed to a halt with effortless grace, flashing a smile that’s all bright teeth. He booms, his voice as rich and infuriating as his smile.
+>
+> "Stand aside, commoners! That celestial beast is my quarry! Its head will look magnificent above the hearth in my summer lodge. A testament to the unmatched skill of Gideon Hawthorn!"
 
 **Technical Information:**
 
-- **Dilemma:** The hunters are from a nearby town and see the stag as a source of wealth. The stag is a celestial creature, a guardian of the forest. The party can choose to help the hunters, help the stag escape, or do nothing.
-- **Helping the Hunters:** If the party helps them kill the stag, the hunters will give them a 200 gp share of the profits. This act will anger the fey and druids of the forest, and the party will have disadvantage on all Charisma-based checks with such creatures for the next tenday.
-- **Helping the Stag:** The stag can be defended or hidden. A DC 15 Charisma (Deception) or (Intimidation) check can convince the hunters to leave. If it comes to a fight, the hunters will not fight to the death and will flee if one of them is brought below half health. If the stag is saved, it will dip its head in thanks before vanishing into the woods. The party will later find a **Moon-touched Longbow** left for them at their next campsite, a gift from the grateful celestial.
+- **Dilemma:** The hunter (Gideon, a **Knight** on a **Warhorse**) sees the stag as a trophy. The stag is a celestial creature, a guardian of the forest. The party can choose to help Gideon, help the stag escape, or do nothing.
+- **Helping the Hunter:** If the party helps him kill the stag, Gideon will be genuinely surprised they were useful. He'll toss them a small pouch of coins (25 gp) and offer them a "Bravo, well done," before riding off with his prize. This act will anger the fey and druids of the forest, and the party will have disadvantage on all Charisma-based checks with such creatures for the next tenday.
+- **Helping the Stag:** The stag can be defended or hidden. A DC 15 Charisma (Deception) or (Intimidation) check can convince Gideon to leave, perhaps by appealing to his vanity. If it comes to a fight, Gideon is arrogant and will not fight to the death, fleeing if brought below half his health to protect his perfect face. If the stag is saved, it will dip its head in thanks before vanishing into the woods. The party will later find a **Moon-touched Weapon** left for them at their next campsite, a gift from the grateful celestial.
+
+### 7. The Weaver's Ambush
+
+> The path ahead vanishes into a thick, eerie fog of white webbing. It coats everything—draping from ancient trees like grotesque curtains and carpeting the ground in a sticky, tangled mess. The air is unnaturally still and carries a faint, acrid smell, like old meat. As you cautiously step into the web-choked grove, you feel the strands tug at your boots. Cocooned shapes, roughly humanoid, hang from the branches, swaying gently in a breeze you cannot feel. The only sound is a faint, rhythmic clicking, a dry, chitinous sound that seems to come from the canopy above...
+>
+> Deeper inside the grove, a single shaft of light pierces the canopy, illuminating a gleaming silver circlet shaped like interwoven branches. A single green gemstone rests in its center, pulsing with a soft, internal light.
+
+**Technical Information:**
+
+- **The Lair:** The area has patches of thick webbing, making it difficult terrain. A creature that starts its turn in the webs or enters them on its turn must succeed on a DC 12 Dexterity saving throw or be restrained. A restrained creature can use its action to make a DC 12 Strength check, freeing itself on a success.
+- **Spotting the Ambush:** Characters who actively search the canopy can make a DC 15 Wisdom (Perception) check. On a success, they spot the dark, multi-eyed shapes of the spiders hiding among the leaves and webs before they attack. This prevents the party from being surprised. If the party proceeds without searching, the spiders gain a surprise round.
+- **Creatures:** 2 **Giant Spiders** and 4 **Spider Swarms** descend from the canopy to attack.
+- **Reward:** One of the cocooned bodies is a recently captured bandit. If freed, he is grateful and offers the party a **Treasure Map** he was carrying. The gleaming treasure is the **Circlet of Verdant Shaping**. This silver circlet allows the wearer to use an action to touch and magically shape a 20-foot cube of non-creature plant life (vines, undergrowth, etc.) into simple forms that last for 1 hour. This property can be used a number of times equal to the wearer's proficiency bonus, and all expended uses are restored daily at dawn.
+
+### 8. The Grumpy Herbalist
+
+> You come across a small, ramshackle hut built into the side of a large, moss-covered hill. A plume of pungent, green smoke rises from a crooked chimney. The air is thick with the smell of herbs, some pleasant, some… not. The sound of someone loudly and profanely cursing at a bubbling cauldron can be heard from within. As you approach, the door creaks open, and a wiry, wild-haired old man with a long, tangled beard and spectacles perched on the end of his nose glares at you. His robes are stained with a rainbow of unidentifiable substances. He is a human of about 60 years of age named (Fendrel).
+>
+> "What? Can't you see I'm busy? The spleenwort is refusing to emulsify, and the moonpetal is sweating like a sinner in a sermon! If you're here for some nonsense quest or to sell me some thrice-damned trinket, you can piss right off. If you've got giant spider venom, though… that’s another story. Now, state your business before you curdle my potion!"
+
+**Technical Information:**
+
+- **Social Encounter:** Fendrel is a crotchety but brilliant alchemist who has been exiled from polite society for his… explosive experiments. He is impatient and rude, but he is not evil. He is a valuable source of information about the forest's flora and fauna.
+- **Quest Hook:** If the party has giant spider venom (perhaps from **The Weaver's Ambush**), he will eagerly trade them for it. He offers them a choice of one of the following: a **Potion of Healing (Greater)**, a **Potion of Animal Friendship**, or a **vial of potent acid**. If they don't have the venom, he might task them with getting some, promising a reward in return.
+
+### 11. The Wounded Satyr
+
+> Laughter and a pained cry echo through the trees. You find a satyr (Filo) with his leg caught in a crude, iron trap. Three goblins are tormenting him, poking him with their spears and laughing at his struggles. The satyr has goat-like legs, a wiry human torso, and a pair of small horns on his head. His face is a mask of pain and fury.
+>
+> "Release me, you foul little warts!" he snarls, his voice a mix of a bleat and a growl. "When I get out of this, I'll turn your bones into panpipes and play a jig at your funeral!"
+
+**Technical Information:**
+
+- **Combat/Social:** The party can intervene. The three **Goblins** are not expecting a fight and are easily surprised. They will flee if one of them is killed.
+- **Reward:** If the satyr is freed, he will be suspicious but grateful. After a moment of consideration, he offers the party a drink from his wineskin. The wine is enchanted; anyone who drinks it gains the benefits of the `Bless` spell for 1 hour. He will also give them a tip: "Stay clear of the old temple to the north. It used to be a place of moonlight, but now something dark and hungry stirs there." This is a reference to the Temple of Selûne.
+
+### 12. The Ancient Battlefield
+
+> The forest opens into a wide, boggy clearing. The ground is littered with the rusted, broken remains of a long-forgotten battle. Half-buried swords, shattered shields, and dented helms lie scattered among the skeletal remains of soldiers. A sense of profound sorrow hangs heavy in the air. As you step onto the battlefield, a faint, ethereal mist rises from the ground, and the whispers of the fallen seem to echo on the wind.
+
+**Technical Information:**
+
+- **Hazard:** The spirits of the fallen are restless here. Any character who disturbs a grave or takes an item from the battlefield must succeed on a DC 14 Wisdom saving throw or be cursed. A cursed character has disadvantage on all attack rolls and saving throws until the curse is removed (`Remove Curse` spell) or they return the item and make a respectful apology to the spirits.
+- **Reward:** A successful DC 16 Intelligence (Investigation) check allows a character to find an untarnished, finely crafted **longsword** clutched in the skeletal hand of a fallen knight. The sword is magical (+1 Longsword). Taking the sword will trigger the curse unless the character first performs a small rite of passage for the knight (e.g., a short prayer, burying the remains), which bypasses the curse.

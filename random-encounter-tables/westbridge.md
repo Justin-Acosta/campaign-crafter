@@ -10,9 +10,9 @@ This table can be used for random encounters in the town of Westbridge in the da
 
 ### 1. One Last Game
 
-> As you pass through the emptying market square, you spot one of the festival stalls still standing, though mostly packed. The proprietor, a cheerful gnome tinkerer with soot-smudged cheeks (Pippin), is carefully placing enchanted candles into a large crate. He spots you and his face lights up.
+> As you pass through the emptying market square, you spot one of the festival stalls still standing, though mostly packed. The proprietor, a cheerful gnome tinkerer with soot-smutched cheeks (Pippin), is carefully placing enchanted candles into a large crate. He spots you and his face lights up. He asks, his voice a rapid-fire burst of excitement as he gestures to a familiar sight: the ghostly, shimmering antlers of a celestial elk.
 >
-> "One last game for the heroes of the festival?" he asks, his voice a rapid-fire burst of excitement. He gestures to a familiar sight: the ghostly, shimmering antlers of a celestial elk. "The Moon-Elk Antler Toss! Special prize for a special round, just for you. Same rules as before, three rings, two successful throws to win. But this time, you'll get one of my own creations!"
+> "One last game for the heroes of the festival? The Moon-Elk Antler Toss! Special prize for a special round, just for you. Same rules as before, three rings, two successful throws to win. But this time, you'll get one of my own creations!"
 
 **Technical Information:**
 
@@ -43,7 +43,7 @@ This table can be used for random encounters in the town of Westbridge in the da
 >
 > "I'm a collector of... post-calamity curiosities."
 >
-> "Every tragedy leaves echoes," he says, his voice barely audible. "I simply find them. Perhaps you'll find something to your liking." He gestures to his wares.
+> "Every tragedy leaves echoes," he says, his voice barely audible as he gestures to his wares. "I simply find them. Perhaps you'll find something to your liking."
 
 **Technical Information:**
 
@@ -97,9 +97,9 @@ This table can be used for random encounters in the town of Westbridge in the da
 
 ### 8. The Festival Loiterer
 
-> You spot a man in a gaudy sun-and-moon-patterned cloak trying to sell trinkets to a few downtrodden locals. 
+> You spot a man in a gaudy sun-and-moon-patterned cloak trying to sell trinkets to a few downtrodden locals. He proclaims, his voice overly cheerful.
 >
->"Guaranteed to hold the last light of the eclipse!" he proclaims, his voice overly cheerful. "A ward against the creeping dark, just ten gold!"
+> "Guaranteed to hold the last light of the eclipse! A ward against the creeping dark, just ten gold!"
 
 **Technical Information:**
 
@@ -136,9 +136,9 @@ This table can be used for random encounters in the town of Westbridge in the da
 
 ### 12. The Sun-Stained Child
 
-> You see a small human child (Linus), perhaps seven years old, sitting alone on the steps of Lathander's church. Their simple clothes are disheveled and their cheeks are smudged with dirt. They are eerily calm, rocking gently back and forth while humming a discordant, looping melody that sends a shiver down your spine. They clutch a stale, sun-shaped pastry to their chest like a precious doll. When they see you, they look up, and their wide, unnervingly bright eyes have a faint, sickly grey/brown tint. They offer a placid smile and speak in a flat, emotionless tone. 
+> You see a small human child (Linus), perhaps seven years old, sitting alone on the steps of Lathander's church. Their simple clothes are disheveled and their cheeks are smudged with dirt. They are eerily calm, rocking gently back and forth while humming a discordant, looping melody that sends a shiver down your spine. They clutch a stale, sun-shaped pastry to their chest like a precious doll. When they see you, they look up, and their wide, unnervingly bright eyes have a faint, sickly grey/brown tint. They offer a placid smile and speak in a flat, emotionless tone.
 >
->"A new sun-man gave this to me. He said he's a friend of Avon's and that he's going to make everything bright again."
+> "A new sun-man gave this to me. He said he's a friend of Avon's and that he's going to make everything bright again."
 
 **Technical Information:**
 

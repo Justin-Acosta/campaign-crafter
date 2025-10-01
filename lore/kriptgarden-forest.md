@@ -1,1 +1,3 @@
-Kryptgarden Forest Lore
+# Kryptgarden Forest Lore
+
+An ancient, sprawling woodland known for its dense, tangled woods and a reputation for being notoriously dangerous. It is home to a host of perilous creatures, most notably the ancient green dragon nicknamed "Gnawbone." The forest's shadowy depths hide forgotten ruins and the lairs of many other threats, drawing hunters and adventurers alike to its depths. Despite its many dangers, a temple of Selune was erected in this forest long ago by wood elves. In centuries since, people of all races have come to worship the moon and her light in this sacred place. Recently, there have been sightings of undead creatures in the forest. Specifically, the temple of Selune, once a safe haven in this cruel environment, has been overrun by the necrotic beings forcing many worshipers and hunters to take refuge in the town of Westbirdge.

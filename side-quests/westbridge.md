@@ -2,7 +2,9 @@
 
 ### The Worried Hunter
 
-> Kaelen, the stern-faced master archer who oversaw the Sunshot Archery Contest, approaches you. Her usual stoic demeanor is gone, replaced by a barely concealed anxiety. "You're the ones Avon trusted, yes? My hunting partner, Borin—the big man from the Sunstone Challenge—he went into the Kryptgarden Forest two days ago. He was convinced he could track those undead back to their source after his last party was attacked. He's a fool, but he's my fool. Please, I need your help to find him."
+> Kaelen, the stern-faced master archer who oversaw the Sunshot Archery Contest, approaches you. Her usual stoic demeanor is gone, replaced by a barely concealed anxiety.
+>
+> "You're the ones Avon trusted, yes? My hunting partner, Borin—the big man from the Sunstone Challenge—he went into the Kryptgarden Forest two days ago. He was convinced he could track those undead back to their source after his last party was attacked. He's a fool, but he's my fool. Please, I need your help to find him."
 
 **Technical Information:**
 

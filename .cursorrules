@@ -31,3 +31,14 @@ EXAMPLE:
 - If the user says: "Please use plain text instead of markdown in my chapter files from now on."
 - Your first action must be: `edit_file` on `preferences.md` to add that rule.
 - Your second action would be: `edit_file` on the relevant chapter file to remove the markdown.
+
+---
+CRITICAL RULE: CONFIRM PREFERENCE ALIGNMENT
+
+1.  TRIGGER: This rule is applied as an additional step after all file changes have been made.
+
+2.  REQUIRED ACTION: You MUST, as your first step after all file changes have been made, read the `preferences.md` file again and confirm that all preferences have been followed in the changed files. If any file changes do not align with the preferences, the file changes MUST be updated to correctly align with the preferences outlined in `preferences.md`.
+
+3.  PURPOSE: Ensure that all file changes align with the preferences described in `preferences.md`.
+
+4.  PRIORITY: This action is the last step of every task and MUST be carried out.
