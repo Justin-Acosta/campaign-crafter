@@ -120,7 +120,7 @@ This table can be used for random encounters within the Kryptgarden Forest.
 >
 > silent
 >
-> The door suddenly creaks open, and a wiry, wild-haired old man glares out, his beard tangled and spectacles perched on his nose. His robes are a testament to a hundred alchemical spills. He is a human of about 60 years of age (Fendrel).
+> The door suddenly creaks open, and a wiry, wild-haired old man glares out, his beard tangled and spectacles perched on his nose. His robes are covered in a hundred alchemical spills. He is a human of about 60 years of age (Fendrel).
 >
 > "What in the Nine Hells do you want? Can't you hear I'm in the middle of a delicate bloody process? The moonpetal is sweating, and this pustulent spleenwort won't mix so, if you're not here with giant spider venom, you can piss right off. Now, what is it."
 
@@ -140,6 +140,30 @@ This table can be used for random encounters within the Kryptgarden Forest.
 - **The Trap:** When the party enters the clearing, the 2 **Ghouls** are already present, kneeling over the elven skeleton and chanting in a guttural language while tracing glowing purple runes on the ground. The air crackles with necrotic energy. If the party does not intervene, at the end of the third round of chanting, the skeleton's spirit will be consumed, and the ghouls will become **Empowered Ghouls** (gaining +10 hit points and dealing an extra 1d6 necrotic damage on their attacks).
 - **The Ambush:** When the party reveals themselves, 4 **Zombies** erupt from the soil around them. The ghouls will shriek and fight viciously to defend their ritual. A ghoul that takes any damage must make a DC 10 Constitution saving throw to maintain concentration on the ritual. If both ghouls lose concentration, the ritual fails.
 - **Reward:** On the skeleton's remains, the party finds a small pouch containing 80 gp and a **Memento Mori**. This is a small raven skull intricately carved with elven symbols. It can hold 1 charge, which can be used to cast the `Speak with Dead` spell. At dusk, roll 1d2. On a 2, the item gains 1 charge.
+
+### 10. The Whispering Tree
+
+> You come across a massive, petrified-looking tree in a small clearing. It is completely pale, its bark smooth and white as bone, and its leafless branches claw at the sky. The air around it is unnaturally cold. As you draw closer, a faint, unsettling sound reaches you—not quite wind, but a chorus of overlapping whispers, too quiet to understand. The surface of the pale bark seems to shimmer, as if light is moving _behind_ it.
+>
+> **If the players investigate the tree**
+> The shimmering isn't light; it's movement. Vague shapes swirl just beneath the surface, like faces in a fogged mirror. One moment it's just a pattern in the wood, the next, a shape resolves into a hollow eye, a mouth open in a silent scream, before dissolving back into the swirling patterns. The faces are elven. Faint elven script is engraved in a circle around a particularly anguished-looking face.
+
+**Technical Information:**
+
+- **The Engraving:** The elven script can be read by anyone who speaks Elvish or with a `Comprehend Languages` spell. It reads:
+  > "Three voices bound in sorrow's grasp / Two woven of deceit / One truth alone will break the clasp / And grant a soul's retreat."
+- **Puzzle - The Liar's Lament:** The tree channels the spirits of three elven sentinels—sisters—bound by a curse of deception. One speaks the truth, while the other two must lie. To free them, the party must identify the truthful spirit. The whispers are three distinct, female elven voices:
+  - **Whisper 1 (Lia):** "I was the Sentinel, tasked with protecting this grove. It was my weakness that led to our doom, a truth that Faerel's honest heart surely knows."
+  - **Whisper 2 (Faerel):** "Lia grieves, but her memory is clouded. Our sister Nael was the true Sentinel, and she stood strong to the very end."
+  - **Whisper 3 (Nael):** "I was never the Sentinel. That heavy burden belonged to another. Our curse binds us, but it cannot change one fact: only the true Sentinel can speak the truth."
+- **The Solution:** This is the only scenario without a contradiction. **Faerel speaks the truth**. To free the spirits, a character must place their hand on the tree and say, "Faerel speaks the truth."
+
+- **Success:** Once the party identifies the correct spirit, the faces in the bark find peace and fade away. A small, hidden compartment opens at the base of the tree, revealing a silver amulet shaped like a leafless branch, resting on a bed of preserved moss. This is the **Amulet of the Sister Sentinels**.
+  - **Amulet of the Sister Sentinels (Wondrous Item, uncommon):** The spirits of the three sentinels are bound to this amulet. Once per long rest, as a bonus action, you can invoke one of the three spirits to grant you a boon for 1 minute:
+    - **Lia:** You choose a 5-foot square of ground you can see within 30 feet. For the duration, that area is filled with spectral, grasping thorns. Any creature that starts its turn there or enters the area must succeed on a DC 15 Strength saving throw or be restrained until the start of its next turn. As a bonus action on subsequent turns, you can move this patch of thorns to another 5-foot square within 30 feet.
+    - **Faerel:** You choose one creature you can see within 30 feet. For the duration, you can see a faint, silvery outline of that target, even through solid objects, up to a range of 60 feet. You have advantage on attacks made against this target.
+    - **Nael:** You create a silent, spectral duplicate of yourself in an unoccupied space you can see within 30 feet. The duplicate is immobile and lasts for the duration. As a bonus action on your turn, you can swap places with the duplicate.
+  - **Hazard:** If a player identifies the wrong spirit or damages the tree, the spirits lash out in fury. Three **Specters**, taking the form of ghostly elven warriors with wisps of shadow for cloaks and burning cold points of light for eyes, emerge from the tree and attack. They fight until destroyed, at which point their forms dissolve back into the tree, and the puzzle resets.
 
 ### 11. The Wounded Satyr
 

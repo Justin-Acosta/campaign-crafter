@@ -4,15 +4,9 @@
 
 - To help the user develop their creative ideas, insert guiding questions directly into the campaign documents. Provide specific, actionable D&D content frameworks (like NPC templates or plot outlines) that prompt the user for details. Generate fully detailed content only when the user explicitly requests it.
 
-- Frame rules and instructions in positive, actionable language, focusing on what to do rather than what to avoid.
-
 - Use a paragraph structure instead of bullet points for generated content in chapter files.
 
 - If i attach a snippet from a file and say a phrase like "modify this" or "create a summary for this section", I am referring to the attached snippet and I only want that snippet adjusted.
-
-- The `rules/context.md` file is intended to be the primary source of campaign context. It should be structured as an effective, quick-reference guide about the campaign's setting, characters, and plot.
-
-- Preferences in this file should always relate to the way that the model assists, not the actual story content.
 
 - When creating content like encounters, minimize DM-only descriptive text. Integrate necessary details and context directly into the read-aloud text. Place mechanical information, such as skill check DCs or specific triggers, in a separate 'Technical Information' section below the main description.
 
@@ -20,11 +14,18 @@
 
 - Avoid having NPCs offer explicit rewards upfront when asking for help. Rewards should be presented organically after the assistance has been rendered to feel more authentic.
 
+- NPC Dialogue Formatting: When writing NPC dialogue, the blockquote should only contain the words spoken by the NPC. Any descriptive text about their tone or actions should be in the main paragraph outside of the blockquote.
+  - good example: 
+  > "Stand aside, commoners! That celestial beast is my quarry! Its head will look magnificent above the hearth in my summer lodge. A testament to the unmatched skill of Gideon Hawthorn!"
+  - bad example: 
+  > "Stand aside," he said condescendingly, clearly wanting to find the stag, "A testament to the unmatched skill of Gideon Hawthorn!"
+
+- IMPORTANT: DM-facing mechanical prompts, such as 'A successful DC X Check reveals Y,' must not be included in the read-aloud text intended for players. This information should be placed in the 'Technical Information' section.
+
 - IMPORTANT: Character Descriptions: When describing a character, you MUST include their race, appearance, mannerisms, and tone of voice. Include the character's name in parenthesis.
 
-- All dialogue spoken by an NPC must be presented as a direct quote from the character, formatted as a markdown blockquote.
+- IMPORTANT: Show Don't Tell: When creating read-aloud sections, present details by explaining what is happening. Focus on describing actions that take place. When describing anything, create literal descriptions that appeal to the five senses.
+  - good example: 
+  > As you walk through the forest, dry, long dead branches occasionally fall from the canopy and you hear a droning guttural groan in the distance.
+  - bad example: The forest you're in is old and falling apart. You hear ominous sounds of undead ghouls in the distance.
 
-- Show Don't Tell: When creating read-aloud sections, give vivid descriptions and explain what is happening in the environment to illustrate details about the scene instead of telling the players what something is directly.
-
-- NPC Dialogue Formatting: When writing NPC dialogue, the blockquote should only contain the words spoken by the NPC. Any descriptive text about their tone or actions should be in the main paragraph outside of the blockquote.
-- DM-facing mechanical prompts, such as 'A successful DC X Check reveals Y,' must not be included in the read-aloud text intended for players. This information should be placed in the 'Technical Information' section.
