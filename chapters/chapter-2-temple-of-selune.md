@@ -25,7 +25,6 @@ The General Shop:
 - what is unique about this shop?
 
 
-
 Important Details:
 
 Introductory Reading:

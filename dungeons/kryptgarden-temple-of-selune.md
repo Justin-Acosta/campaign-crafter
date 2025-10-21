@@ -18,18 +18,6 @@ The architecture of a Selûnite temple is designed to embrace the celestial, wit
 - **Libraries:** Temples often serve as repositories of knowledge, particularly concerning astrology, navigation, and lore about lycanthropes and the Shadowfell.
 - **Healing Wards:** As centers for healing, temples usually have extensive infirmaries to care for the sick and injured. They are known for treating lycanthropy and madness.
 
-#### Clergy and Inhabitants
-
-- **Clergy:** The clergy is made up of priests and priestesses who are often charismatic, wise, and compassionate. They are skilled healers and are knowledgeable in astrology and ancient lore. Their robes are typically silver, white, or pale blue.
-- **Temple Guardians:** Many temples have a dedicated order of guardians, such as paladins or fighters, who protect the temple and its inhabitants. The "Swords of the Lady," also known as the "Lunatics," is one such famous order.
-- **Other Inhabitants:** Temples often provide shelter to those in need, including travelers, the poor, and those seeking refuge from darkness. It is not uncommon to find scholars, astrologers, and navigators studying within the temple walls.
-
-#### Activities and Services
-
-- **Healing:** The most common service provided is healing, both magical and mundane. They are particularly known for their expertise in treating lycanthropy.
-- **Guidance:** Priests offer guidance and wisdom to the community, using astrology and divination to help people with their problems.
-- **Community Support:** Temples often act as community centers, providing food, shelter, and support to the local populace.
-- **Education:** They serve as places of learning, teaching astronomy, navigation, and history.
 
 #### Rituals and Ceremonies
 
@@ -39,3 +27,53 @@ Worship of Selûne is tied to the phases of the moon.
 - **Full Moon Ceremonies:** The full moon is a time of great celebration, with grand ceremonies, feasts, and processions.
 - **New Moon Rituals:** The new moon is a time for introspection and quiet meditation.
 - **The Conjuring of the Second Moon:** This is one of the most sacred rituals, performed once a year. The clergy and followers gather to summon a magical, luminous image of the moon.
+
+
+Brainstorming:
+
+**The Corruption - Source & Nature**
+- What caused the corruption? (Shadow curse? Necromancer? Shar cultists? Ancient betrayal?)
+- How long has the temple been corrupted?
+- What visual signs show the corruption? (Moonlight turns sickly? Silver tarnished black? Dead plants?)
+- Are there pockets of resistance where Selûne's light still holds?
+- What happens to the moon imagery? (Does it show eclipsed moons? Blood moons? Shattered moons?)
+
+**Undead Inhabitants**
+- What type of undead? (Corrupted priests? Animated pilgrims? Shadows and wraiths? A mixture?)
+- Are any undead tragic - former defenders still trying to "protect" the temple?
+- Is there a boss undead? What's their story?
+- Do the undead behave differently in moonlight vs darkness?
+- Are there any non-hostile undead NPCs the party could interact with?
+
+**Upper Level - Open Air (Partially Corrupted)**
+- Main Sanctuary: Still exposed to sky? Does moonlight harm or empower the undead here?
+- Reflecting Pools: Now stagnant? Filled with dark water? Gateway to underground?
+- Observatory: Telescope showing dark visions? Charts predicting apocalypses?
+- Cloisters/Courtyards: Overgrown with night-blooming poisonous plants?
+- What areas show the battle between light and shadow most clearly?
+
+**Underground Level - Fully Corrupted**
+- What was this level originally? (Crypts? Storage vaults? Secret sanctuary? Prison for lycanthropes?)
+- How do players access it? (Stairs from sanctuary? Through a dried pool? Collapse in floor?)
+- Is it a natural cave system or constructed chambers?
+- What makes it more dangerous than above? (Stronger undead? Darkness mechanics? Traps?)
+- Is the corruption's source down here?
+
+**Key Encounters to Plan**
+1. Entry encounter: 
+2. Puzzle/exploration challenge:
+3. Optional side area:
+4. Mini-boss or major set piece:
+5. Final confrontation:
+
+**Treasure & Rewards**
+- What Selûnite artifacts remain uncorrupted?
+- Are there corrupted items that could be cleansed?
+- What knowledge/lore can be discovered here?
+- Connection to broader campaign goals?
+
+**Atmosphere & Description Notes**
+- Sounds: (Wind through broken walls? Ghostly hymns? Chains rattling?)
+- Smells: (Decay vs night-blooming flowers? Incense turned acrid?)
+- Lighting: How does natural moonlight vs magical darkness play out?
+- Temperature: Unnatural cold in certain areas?
