@@ -148,3 +148,31 @@ Key Abilities: (Devilsight, Awaken Mind, Darkness, Eldritch Blast, Arms of Hadar
 Panic erupts. The joyous celebration turns to screams of terror as the crowd scrambles away from the void. The darkness lingers for only a moment, but it feels like an eternity. When it finally dissipates with a faint pop, the three warlocks are gone. And so is Avon. Lyra, lays unmoving where she stood on the ritual platform.
 
 IV. After the Festival:
+
+### Immediate Aftermath - The Chaos Subsides
+
+The festival grounds are in complete disarray. Overturned stalls, scattered food, and abandoned belongings litter the square as the last of the panicked crowd disappears into the night. The Eclipse Well stands silent, its metal framework casting eerie shadows in the flickering light of a few remaining lanterns. Lyra lies motionless on the ritual platform, her silver scales dulled and her breathing shallow but steady.
+
+**Brainstorming Questions for the DM:**
+
+**Immediate Scene & Atmosphere:** What does the aftermath look like? Are there injured festival-goers who need help? Fires to put out? Valuable items left behind in the panic? How do the remaining NPCs react? Does Ghaliver try to organize a rescue? Do any festival vendors offer assistance or flee entirely? What evidence did the warlocks leave behind? Scorch marks from eldritch blasts? Strange symbols? The lingering scent of otherworldly magic? How does the Eclipse Well look now? Has the ritual's interruption left any magical residue or visual changes?
+
+**Lyra's Condition & Information:** What exactly happened to Lyra during the abduction? Was she struck by magic, overwhelmed by psychic feedback, or simply collapsed from shock? What does she remember about the attackers? Did she sense their patron's influence? Notice any details about their destination? How does she react to being the sole remaining cleric? Does she feel overwhelmed by responsibility or determined to act? What resources does she have access to? Healing supplies? Magical items? Knowledge of the temple's layout?
+
+**The Warlocks' Trail:** Did anyone witness which direction the warlocks went? Are there magical traces the party could follow? How much time has passed since the abduction? Are the warlocks already at their destination or still traveling? What was their method of escape? Teleportation? Mundane travel? A summoned creature? Did they leave any clues about their motivations beyond serving Hadar? Personal items? Overheard conversations?
+
+**Community Response & Resources:** Who steps up to help in Westbridge? Are there other clerics, town guards, or capable NPCs? What supplies and equipment are available? Healing potions? Weapons? Horses for pursuit? How do the townspeople view the party? As heroes who should rescue Avon? Outsiders who brought trouble? Are there other temples or allies within traveling distance who could provide aid?
+
+**The Temple Investigation Decision:** How does the party learn about the temple's corruption? Through Lyra? Avon's previous briefings? Other NPCs? What makes the temple seem connected to this attack? Timing? The nature of the undead? Hadar's influence? Who has knowledge of the Kryptgarden Forest's dangers? Local hunters? Surviving temple refugees? What preparation is needed for the journey? Supplies? Guides? Blessings or protective magic?
+
+**Moral and Strategic Choices:** Should the party pursue the warlocks immediately or investigate the temple first? What are the pros and cons of each approach? How do they balance helping the traumatized townspeople with the urgency of Avon's situation? What if some party members want to split up? Who goes where and why? Are there other threats that might take advantage of Westbridge's vulnerability while they're gone?
+
+**Foreshadowing Future Events:** What signs point to larger threats beyond this immediate crisis? Strange dreams? Unnatural weather? Reports from other regions? How might this attack connect to broader political or supernatural events in your campaign? What allies or enemies might the party encounter based on their choices here? How does this event change the party's reputation or standing in the region?
+
+### Technical Information:
+
+**Lyra's Status:** Lyra is unconscious but stable. A DC 12 Medicine check or any healing magic will revive her. She has all her spell slots but is emotionally shaken (disadvantage on Wisdom saves for the next 24 hours unless comforted).
+
+**Investigation Opportunities:** A DC 15 Investigation check around the ritual site reveals traces of Far Realm magic. A DC 13 Survival check can track the warlocks' initial direction (toward the forest). Talking to specific NPCs (Ghaliver, Pippin, Silas) may provide additional clues based on what they observed.
+
+**Time Pressure:** The warlocks have roughly a 30-minute head start. Their destination and travel method will determine how much time the party has to make decisions and prepare.
