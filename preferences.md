@@ -26,7 +26,6 @@
 
 - IMPORTANT: Character Descriptions: When describing a character, you MUST include their race, appearance, mannerisms, and tone of voice. Include the character's name in parenthesis.
 
-- IMPORTANT: Show Don't Tell: When creating read-aloud sections, present details by explaining what is happening. Focus on describing actions that take place. When describing anything, create literal descriptions that appeal to the five senses.
-  - good example:
-  > As you walk through the forest, dry, long dead branches occasionally fall from the canopy and you hear a droning guttural groan in the distance.
-  - bad example: The forest you're in is old and falling apart. You hear ominous sounds of undead ghouls in the distance.
+- IMPORTANT: Show Don't Tell: When describing characters, locations, and events, use sensory descriptions to immerse the players in the experience you're trying to communicate.
+  - good example: > As you walk through the forest, dry, long dead branches occasionally fall from the canopy and you hear a droning guttural groan in the distance.
+  - bad example: > The forest you're in is old and falling apart. You hear ominous sounds of undead ghouls in the distance.

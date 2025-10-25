@@ -1,6 +1,6 @@
 # Session 0 Materials
 
-This is a small collection of information about the Cult of Hadar campaign. This will provide some NPC's and going-ons organized by location that can provide inspiration for your character. For the adventure hook document, visit https://docs.google.com/document/d/1YFo9v7KaEIMJutT00AtesV-anyPdpXbwRk0qZiRrz9Y/edit?usp=drive_link.
+This is a small collection of information about the Cult of Hadar campaign. This will provide some NPC's and going-ons organized by location or faction that can provide inspiration for your character. For the adventure hook document, visit https://docs.google.com/document/d/1YFo9v7KaEIMJutT00AtesV-anyPdpXbwRk0qZiRrz9Y/edit?usp=drive_link.
 
 ## Westbridge
 
@@ -41,10 +41,23 @@ A once-beautiful temple dedicated to the Moonmaiden, now a place of shadow and c
 
 ### Key Figures
 
-*   **Elara:** A respected wood elf priestess of Selune and the leader of the temple. She stayed behind when the temple was overrun and is now missing. She is a childhood friend of Avon from Westbridge. *(Did you ever visit the temple when it was safe? Did you know Elara or any of the other priests who served there?)*
+*   **Elara:** A respected wood elf priestess of Selune and the leader of the temple. She stayed behind when the temple was overrun and is now missing. She is a childhood friend of Avon from Westbridge. *(Did you ever visit the temple when it was safe? Did you know Elara or any of the other priests who served there? Did you live or worship in the Temple of Selune?)*
 
 ### Going-ons
 
 *   The temple has been overrun by undead, forcing the clergy to flee to Westbridge.
 *   A powerful necrotic energy emanates from beneath the temple, corrupting the surrounding area.
 *   The protective wards of Selune that once guarded the temple have fallen or been twisted into something malevolent.
+
+## The Cult of Hadar
+
+A mysterious group of warlocks who have made pacts with Hadar, an ancient entity from the Far Realm. Unlike typical cults that seek to spread corruption or build earthly power, these individuals appear driven by more personal, desperate motivations. They are not interested in converting others or establishing a permanent presence—their goals seem focused and temporary.
+
+### Key Figures
+
+*   **The Heralds:** A small group of warlocks who serve as Hadar's agents in the material plane. Each appears to have been driven to their dark pact by profound personal circumstances. *(What have you heard about people who make deals with entities from the Far Realm? Do you know anyone who has faced such desperate circumstances that they might consider any bargain for power?)*
+
+### Going-ons
+
+*   Strange individuals with otherworldly powers have been spotted in the region, though their exact numbers and identities remain unclear.
+*   Unlike other threats that corrupt the land itself, this group's influence seems more focused on individuals rather than spreading environmental decay.
