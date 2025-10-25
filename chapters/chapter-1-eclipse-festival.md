@@ -8,7 +8,7 @@ You have been invited by Avon, a powerful cleric of Lathander, to the town of We
 ### Westbridge:
 This modest farming village owes its name to its simple geography: it sits on the west side of the ancient Stone Bridge. Positioned at the crossroads of the Long Road and the Stone Trail, it serves as a vital hub for local commerce. The village features a central market, a bustling stockyard, and several warehouses, all under the ownership of the enterprising gnome, Ghaliver Longstocking. Though primarily an agricultural community, many residents are skilled hunters, often venturing into the nearby Kryptgarden Forest for game. For generations, the village has hosted the Eclipse Festival, a cherished tradition honoring both Lathander and Selûne, drawing visitors from miles around.
 
-### The Kryptgarden Forest:
+### The Kryptgarden Forest:`
 An ancient, sprawling woodland known for its dense, tangled woods and a reputation for being notoriously dangerous. It is home to a host of perilous creatures, most notably the ancient green dragon nicknamed "Gnawbone." The forest's shadowy depths hide forgotten ruins and the lairs of many other threats, drawing hunters and adventurers alike to its depths. Despite its many dangers, a temple of Selune was erected in this forest long ago by wood elves. In centuries since, people of all races have come to worship the moon and her light in this sacred place. Recently, there have been sightings of undead creatures in the forest. Specifically, the temple of Selune, once a safe haven in this cruel environment, has been overrun by the necrotic beings forcing many worshipers and hunters to take refuge in the town of Westbirdge.
 
 ### The Festival:

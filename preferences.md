@@ -1,5 +1,9 @@
 # User Preferences and Guidelines
 
+## `characters/`
+
+- Add a link to one relevant header in this project when you add a character to any files in the `characters/` directory.
+
 - To help the user develop their creative ideas, insert guiding questions directly into the campaign documents. Provide specific, actionable D&D content frameworks (like NPC templates or plot outlines) that prompt the user for details. Generate fully detailed content only when the user explicitly requests it.
 
 - Use a paragraph structure instead of bullet points for generated content in chapter files.
