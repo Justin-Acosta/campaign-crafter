@@ -39,3 +39,8 @@ Points of interest in Westbridge after the abduction:
     *   Pippin the Tinkerer: He heard rumors about strange creatures in the forest. Does this connect to the warlocks?
     *   General Rumors: What are people saying? Are they blaming monsters, a rival town, or divine wrath? How can the party separate fact from fiction?
 
+
+## Undead Necrotic Spellcasters
+
+### Spells:
+- infestation
