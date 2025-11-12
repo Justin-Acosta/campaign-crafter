@@ -16,12 +16,6 @@ The Eclipse Festival is a tradition born from desperation. Long ago, as the shad
 
 ## II. The Eclipse Festival
 
-### Story Details:
-Three tendays ago, the clergy from the temple fled to Westbirdge telling stories of the temple being overrun with undead creatures from within and a powerful. The magic users among them detected a powerful necrotic magic emanating from below the temple.
-A hunting party was found near the temple road abandoned about two tendays ago, with supplies scattered about but no sign of the merchants or their guards.
-He and the Selunite priestess, Elara, were childhood friends. They share a deep, mutual respect, making his concern for her and the temple deeply personal. Elara did not return from the timple with the rest of the clergy
-Avon gives the party a detailed map of the Kryptgarden Forest
-
 ### Introductory Reading:
 > This year, as the undead stir and the people drown in a palpable sense of dread, the town takes a welcome breath and loses itself in festivities. At the heart of the village square stands the Eclipse Well, a simple stone structure over which an intricate metal framework of rings and symbols has been built. When viewed from the eastern road, this device perfectly frames the sun and the moon during an eclipse. For now, it serves as the festival's center. The air, usually thick with the scent of pine from the Kryptgarden, now carries the sweet aroma of honeyed cakes and roasting boar. Stalls draped in gold and silver radiate outwards from the well where merchants from as far as Waterdeep peddle sun-stamped trinkets and moon-blessed charms. Children chase each other with faces painted like grinning suns and serene moons. 
 
