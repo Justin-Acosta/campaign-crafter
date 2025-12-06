@@ -1,20 +1,4 @@
-# Chapter 1: The Eclipse Festival
-
-## I. The Adventure Hook
-
-### To the Player:
-You have been invited by Avon, a powerful cleric of Lathander, to the town of Westbridge for a rare eclipse festival. In his message, Avon says that he wants help with "necrotic trouble" at the local temple of Selune in the nearby Kryptgarden Forest.
-
-### Westbridge:
-This modest farming village owes its name to its simple geography: it sits on the west side of the ancient Stone Bridge. Positioned at the crossroads of the Long Road and the Stone Trail, it serves as a vital hub for local commerce. The village features a central market, a bustling stockyard, and several warehouses, all under the ownership of the enterprising gnome, Ghaliver Longstocking. Though primarily an agricultural community, many residents are skilled hunters, often venturing into the nearby Kryptgarden Forest for game. For generations, the village has hosted the Eclipse Festival, a cherished tradition honoring both Lathander and Selûne, drawing visitors from miles around.
-
-### The Kryptgarden Forest:
-An ancient, sprawling woodland known for its dense, tangled woods and a reputation for being notoriously dangerous. It is home to a host of perilous creatures, most notably the ancient green dragon nicknamed "Gnawbone." The forest's shadowy depths hide forgotten ruins and the lairs of many other threats, drawing hunters and adventurers alike to its depths. Despite its many dangers, a temple of Selune was erected in this forest long ago by wood elves. In centuries since, people of all races have come to worship the moon and her light in this sacred place. Recently, there have been sightings of undead creatures in the forest. Specifically, the temple of Selune, once a safe haven in this cruel environment, has been overrun by the necrotic beings forcing many worshipers and hunters to take refuge in the town of Westbirdge.
-
-### The Festival:
-The Eclipse Festival is a tradition born from desperation. Long ago, as the shadow of the great green dragon Gnawbone fell over the Kryptgarden Forest, the people of Westbridge first came together to weave a powerful ward of protection. The Eclipse Ritual, a delicate and potent display of celestial magic, has been performed during every eclipse since, a shield not only against the dragon's wrath but against the many dangers that have threatened the town over the years. At the festival's climax, the strongest leader from the temple of Selune and the church of Lathander share their power to preform the awe inspiring ritual.
-
-## II. The Eclipse Festival
+## I. The Eclipse Festival
 
 ### Introductory Reading:
 > This year, as the undead stir and the people drown in a palpable sense of dread, the town takes a welcome breath and loses itself in festivities. At the heart of the village square stands the Eclipse Well, a simple stone structure over which an intricate metal framework of rings and symbols has been built. When viewed from the eastern road, this device perfectly frames the sun and the moon during an eclipse. For now, it serves as the festival's center. The air, usually thick with the scent of pine from the Kryptgarden, now carries the sweet aroma of honeyed cakes and roasting boar. Stalls draped in gold and silver radiate outwards from the well where merchants from as far as Waterdeep peddle sun-stamped trinkets and moon-blessed charms. Children chase each other with faces painted like grinning suns and serene moons. 
@@ -25,7 +9,7 @@ The Eclipse Festival is a tradition born from desperation. Long ago, as the shad
 
 **Meeting Avon, the Cleric of Lathander:**
 
-> As the festival's revelry swirls around you, a figure emerges from the crowd with quiet confidence, creating a pocket of calm in the celebration's chaos. The man approaching has a kind, weathered face marked by laugh lines and graying hair that shimmers like spun gold in the torchlight. He carries himself with the gentle authority of a beloved grandfather, hands clasped in peaceful intention, and when he speaks, his voice carries the rich timbre of a church bell cutting through the noise. But, you notice a tightness around his eyes and a subtle urgency creeping into his tone.
+> As the festival's revelry swirls around you, a figure emerges from the crowd with quiet confidence, creating a pocket of calm in the celebration's chaos. The man approaching has a kind, weathered face marked by laugh lines and graying hair that shimmers like spun gold in the torchlight. He carries himself with the gentle authority of a beloved grandfather, hands clasped in peaceful intention, but, you notice a tightness around his eyes.
 
 Reward for Help:
 The Dawnray Spear: This is a +1 spear that shines with the light of the morning sun when it strikes. If this spear deals damage to a creature or object, it shines with the light of dawn in a 30ft radius, illuminating the area and deals 1d6 radiant damage to all creatures within 5ft of the creature or object it hit. When it deals damage an undead creature, it deals an additional 1d8 radiant damage.

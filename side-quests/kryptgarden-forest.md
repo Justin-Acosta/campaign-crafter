@@ -1,0 +1,1 @@
+Claugiyliamatar wants to gain Change Shape magic. 

@@ -48,4 +48,3 @@ Points of interest in Westbridge after the abduction:
 ## Party Update
 
 Just a little update to our party composition. This is what I know so far, but it's subject to change. If you're mentioned, please feel empowered to change your class if you want to
-
