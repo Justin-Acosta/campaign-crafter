@@ -1,0 +1,1 @@
+Use the `z-services/open5e/fetch_monsters.py` service to add the requested monsters to the `creatures/` directory.
