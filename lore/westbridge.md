@@ -1,1 +1,3 @@
 # Westbirdge Lore
+
+Avon, Ghaliver, Darien, and Elara were an adventuring party before they lived in Westbridge and the Kryptgarden Forest. Decades ago, Westbridge was run by a Thieve's Guild who had put a stop to the Eclipse Ritual. There was rampant extortion, and without the ritual, undead creatures were entering the town and attacking. These four adventurers worked to disband the thieve's guild with the help of the Lord's Alliance and re-establish the Eclipse Ritual.
