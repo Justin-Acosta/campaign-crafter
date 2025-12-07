@@ -1,8 +1,8 @@
 # Sword Wraith Warrior
-*Medium Undead, lawful evil*
+*Large Undead, lawful evil*
 **Challenge** 3 (700 XP)
 
-**Armor Class** 16 (chain mail, shield)
+**Armor Class** 13 (chain mail, shield)
 **Hit Points** 45 (6d8 + 18)
 **Speed** 30 ft.
 

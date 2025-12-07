@@ -1,5 +1,7 @@
 # Callinectes Sapidus (Cal)
 
+Human
+
 - even tempered and this crab emotes for Cal with crabby gestures.
 - cleric of the twilight domain. 
 - I haven't decided on a race yet. 
@@ -33,3 +35,9 @@ additional info:
 
 ### 5. Crab flavor, mmm
 - With your crab pendant, you can cast Barkskin once a day. The pendant is recharged every evening twilight. The magical armor always manifests as pieces of crab-like chitinous exoskeleton. 
+
+Has been in Westbridge for about 1-2 weeks investigating 
+
+Interested in magical maladies (like vampirism and lycanthropy)
+
+Speaks common elvish goblin and undercommon

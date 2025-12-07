@@ -25,16 +25,3 @@ This spell creates a single break or tear in an object you touch, such as breaki
 This spell can physically break a magic item or construct, but the spell can’t remove magic from such an object.
 
 Has been in Westbridge for about 2 weeks
-
-# Header 1
-## Header 2
-### Header 3
-*Italic*
-**Bold**
-***Bold and Italic***
-- Bullets
-- Bullets
-- Bullets
-1. Numbers
-2. Numbers
-3. Numbers
