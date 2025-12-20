@@ -18,11 +18,11 @@ A cheerful gnome with soot-smudged cheeks and goggles pushed up on his forehead.
 ### Silas
 An enigmatic half-elf cloaked in dark, flowing robes that obscure their features. Their eyes seem distant and unfocused, as if watching a performance on some other, unseen stage. They run the shadow puppet show at the festival.
 
-### Borin
-A burly human man with a booming laugh and calloused hands. He runs the 'Sunstone Challenge' at the Eclipse Festival and is Kaelen's hunting partner.
-
 ### Kaelen
 A stern-faced human woman with a masterwork bow slung over her shoulder. She watches participants with a hawk's eye, offering curt nods and sharp critiques. She oversees the 'Sunshot Archery Contest' at the festival.
+
+### Borin
+A burly human man with a booming laugh and calloused hands. He runs the 'Sunstone Challenge' at the Eclipse Festival and is Kaelen's hunting partner.
 
 ### Linden
 A kindly half-elf with flour dusting his apron and a warm smile. He runs the 'Taste of the Heavens' pastry stall at the Eclipse Festival and takes great pride in his baking.
