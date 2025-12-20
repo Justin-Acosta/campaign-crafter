@@ -28,3 +28,5 @@
 
 ***Withering Gaze.*** One creature that the bodak can see within 60 feet of it must make a DC 13 Constitution saving throw, taking 22 (4d10) necrotic damage on a failed save, or half as much damage on a successful one.
 
+
+

@@ -26,3 +26,5 @@
 
 ***Howling Babble (Recharge 6).*** Each creature within 30 feet of the allip that can hear it must make a DC 14 Wisdom saving throw. On a failed save, a target takes 12 (2d8 + 3) psychic damage, and it is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
 
+
+
