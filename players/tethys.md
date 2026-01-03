@@ -1,36 +1,27 @@
-Tethys
+# Tethys
 
-Martial Fighter
+## 1. Stats
+- **Race:** Human
+- **Class:** Fighter (Martial Archetype)
+- **Background:** Soldier (Dishonored Officer)
+- **Affiliation:** Former Lord's Alliance, currently working unofficially with Westbridge Militia.
 
-Soldier
+## 2. Motivations
+- **Redemption through Action:** Tethys is rebuilding his sense of honor after being dishonorably discharged. He works as an enforcer to protect people, aligning with Captain Darian's more pragmatic and humane approach to peacekeeping.
+- **Finding a New Code:** Having rejected the "scorched earth" orders of his previous commanders, he is likely searching for a leader or a cause that respects his moral lines—something he seems to have found in his brother, Captain Darian.
+- **Walking Away:** Initially focused on leaving his past life as a soldier behind, he is now finding a new purpose in Westbridge, though he cannot hold official rank due to his discharge.
 
-Officer that was asked to do something dubious
+## 3. Flaws
+- **Insubordinate Streak:** Tethys has proven he will disobey direct orders if they conflict with his conscience. This makes him reliable morally, but unpredictable hierarchically.
+- **Disgraced Status:** He was stripped of his rank and dishonorably discharged. This stigma follows him and prevents him from holding official positions within Lord's Alliance organizations.
+- **Haunted by the Raid:** The event that caused his discharge—a brutal raid on a gang hideout in Waterdeep where he spared children from slaughter—likely weighs heavily on him.
 
-Was insubordinate and got kicked out of his army
-
-Working with the militia as an enforcer
-
-## DM Diggin
-
-### What You Know
-- Captain Darian Hale came to Westbridge largely as a way to escape his life in the hierarchical structure of his previous statioin with the Lord's Alliance. He enjoys the fact that he does not answer to anyone in Westbridge (unless a high ranking member of the Lords Alliance arrives in the town). He doesn't have to carry out orders that the finds questionable any more, and he has the freedom to treat his subordinates and the people of Westbridge as fairly as he can.
-
-- The Redclaw goblin clan lives in the Sumber Hills to the southeast of Westbridge. The goblins often steal from travelers along the Long Road and the Stone Trail. Captain Darian has been willing to talk to some of these goblins and sometimes resolved encounters peacefully. He has learned that the goblin clan is not doing well. Red Larch and Beliard, the two towns closest to the Sumber Hills, have refused to trade with the goblins, and  Red Larch has even sent hunters out to kill goblins in the Sumber Hills.
-
-- Captain Darian has recently (in the last 3-6 tendays) started allowing goblins into the town to trade for supplies. These goblins are personally vetted by the Captain, and given a badge with a symbol of an eclipse. Captain Darian has instructed his militia not to tollerate any discriminatory behavior against the goblins, and to remove any goblins who cause trouble.
-
-### Questions
-- What was the nature of Tethys's position as a solier? Was he part of a city guard? Was at war as part of a marching army? Let's figure out where Tethys came from. Here are some options, but feel free to get creative:
-    - **Lord's Alliance:** A political and military coalition of the North's major cities (like Waterdeep and Baldur's Gate) dedicated to maintaining civilization and trade through a united front. They prioritize the stability and safety of their settlements above all else, often employing ruthless pragmatism to eliminate threats to the social order. Agents are expected to serve the "greater good" of the Alliance, sometimes at the expense of individual liberties or smaller communities.
-    - **Order of the Gauntlet:** A vigilant brotherhood of religious warriors and paladins united by faith in gods of justice like Torm, Tyr, and Helm. They are dedicated to crushing evil wherever it arises, striking preemptively and decisively to protect the innocent from corruption. Their worldview is often starkly black-and-white, demanding absolute discipline and offering little mercy to those they deem monsters or heretics.
-
-- What was Tethys asked to do that drove him away from his position as a soldier? What was the personal siginificance of the line that was crossed?
-
-- In Westbridge, does Tethys participate in the militia's sparring exercises? How much does he interact with Captain Darian and the rest of the militia?
-
-- Is there anything that Tethys is searching for or attempting to accomplish at the moment, or is he simply focused on walking away from his life as a soldier?
-
-### Special Features and Items
-- **Eclipse Badge**: Though you are not officially part of the maliita, Captain Darian has given you an eclipse badge that you can wear if you wish. This badge signifies that you are acting on behalf of the Westbridge militia, and commands a certain amount of authority in the town. The badge is also deeply respected by some goblinfolk because of the Captains recent actions.
-
-- **Fine Weapon**: You have a +1 weapon (+1 to hit and to damage) of your choice from your days as a solider. You decide the physical description of this weapon.
+## 4. Other Details
+- **Family:** [Captain Darian Hale](../characters/westbridge.md#captain-darian-hale) is Tethys's brother. This close familial bond likely secured Tethys his sanctuary in Westbridge and his unofficial role within the militia despite his dishonorable discharge.
+- **The Incident:** Tethys was an officer in a troop (likely Lord's Alliance) that raided a gang hideout in Waterdeep. The mission was a "scorched earth" operation with orders to kill everyone, including children/teens. Tethys convinced his squad to let the young ones go, leading to his discharge.
+    - **Connection to Jade:** This was the same raid that targeted [Jade's](../players/jade.md) father, Raggmarrow. It is possible Tethys remembers a green dragonborn enforcer from that night, or that Jade recognizes him from the attacking force.
+- **Current Role:** He works as an unofficial enforcer for the Westbridge Militia under his brother. They share a mutual respect for fair treatment and independence from rigid Alliance hierarchy.
+- **Special Items:**
+    - **Eclipse Badge:** Captain Darian gave him this badge. It signifies authority to act on behalf of the militia and is respected by local goblins due to the Captain's fair policies.
+    - **Fine Weapon:** A +1 weapon of his choice from his soldiering days.
+- **Westbridge Activities:** He participates in militia activities and lives in the barracks, potentially overlapping with Jade for the past few weeks.
