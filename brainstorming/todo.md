@@ -1,5 +1,5 @@
 # project planning
-1. Clean up player files
+1. Clean up player files (done)
 2. random npc names
 
 # session 1 planning
