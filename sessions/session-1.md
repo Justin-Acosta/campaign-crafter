@@ -57,7 +57,7 @@
 - houses weapons, armor
 - small drill square surrounded by a fence
 - training dummies
-- militia members sparring 
+- militia members sparring
 
 **Jade spars with a militia member:**
 - DC 12 attack
@@ -154,7 +154,7 @@ A player who wins this challenge gets to keep their clockwork animal which will 
 **Sunstone Challenge:**
 > You hear the rhythmic chipping of stone and cheers from a small crowd gathered around a large, grey rock.
 > 
-> A burly human man (Borin) with a booming laugh and calloused hands runs the challenge, presenting a large, smooth, grey stone. 
+> A burly human man (Borin) with a booming laugh and calloused hands runs the challenge, presenting a large, smooth, grey stone.
 >
 >"Put your back into it! You can take any sunstones you knock loose!"
 
@@ -163,11 +163,12 @@ The goal is to use a dose of holy water to reveal the "sunstone" hidden within. 
 A player who wins this challenge receives a small sunstone worth 25gp.
 
 **Sunshot Archery Contest:**
-> You see a line of archers taking aim at targets painted with radiant suns, the twang of bowstrings echoing in the air.
+> You see a line of archers taking aim at targets painted with radiant suns
+_sounds from the twang of bowstrings_
 > 
 > The contest is overseen by a stern-faced human woman (Kaelen) with a masterwork bow slung over her shoulder. She watches each participant with a hawk's eye, offering curt nods of approval for good shots
 >
->"Keep your elbow up."
+>"Keep your elbow up. Open your chest."
 
 She offers three arrows to each participant. The goal is to hit the bullseye of a target 60 feet away, which is painted to look like a radiant sun. A player can make a DC 20 ranged attack roll with a bow to hit the target. Hitting the bullseye wins a prize.
 
@@ -183,3 +184,18 @@ Some of the pastries are infused with a harmless, temporary magical effect. Roll
 3: They can hum a perfect melody with no effort.
 4-5: They feel a surge of warmth and gain 1 temporary hit point that they keep until they take damage.
 6: Their eyes glow faintly like the moon for 1 minute.
+
+### The Eclipse Ritual:
+
+**Stage 1: The Sun's Retreat**
+
+- the crowd places their lanterns in a large circle around the well
+- !!! describe magic
+
+**Stage 2: The Moon's Ascent**
+
+- !!! 
+
+Stage 3:
+- [Ritual Abduction Combat Encounter](../combat-encounters/session-1/ritual-abduction.md)
+

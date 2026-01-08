@@ -103,65 +103,13 @@ A player who wins this challenge receives 1 Arrow of Beast Slaying.
 **Taste of the Heavens:**
 > You smell cinnamon and freshly baked bread from a stall displaying pastries shaped like suns and moons.
 > 
-> A kindly half-elf (Linden) with flour dusting his apron and a warm smile runs the stall. As he shows you each of his treats, he explains the celestial inspiration behind each one. You see sun-shaped pastries and moon-shaped cakes. 
+> A kindly half-elf boy (Linden) with flour dusting his apron and a warm smile runs the stall. As he shows you each of his treats, he explains the celestial inspiration behind each one. You see sun-shaped pastries and moon-shaped cakes. 
 
 Some of the pastries are infused with a harmless, temporary magical effect. Roll a d6 to see what happens when a character eats one:
 1-2: Their teeth sparkle for 10 minutes.
 3: They can hum a perfect melody with no effort.
 4-5: They feel a surge of warmth and gain 1 temporary hit point that they keep until they take damage.
 6: Their eyes glow faintly like the moon for 1 minute.
-
-## II. A Ritual Abduction
-
-### The Eclipse Ritual:
-
-**Stage 1: The Sun's Retreat**
-
-> "The ritual begins as the sun dips low, casting long shadows across the festival grounds. A gentle hum of prayer rises from the assembled crowd, a mix of Lathander's faithful in their bright, sun-yellow robes, Selûne's followers in shimmering silver and white, and various festival goers in all manor of clothing. The air grows thick with the scent of sweet incense and burning sage, meant to purify the sacred space. Avon, his face kindly and serene, stands at the head of the congregation, his voice a clear and steady presence in the growing dusk. He raises his hands, and the chanting softens to a murmur."
-
-**interaction**
-> "Is there anyone who would like to say a word. Heartfelt contributions increase the potency of this ritual."
-
-Stage 2: The Moon's Ascent
-
-> "Just as the moon obscures the sun, plunging the world into an eerie twilight, the solemnity of the moment is shattered. A wild, exultant cheer erupts from the crowd. Drummers unleash a frantic, joyful rhythm, and pipes begin to shriek a merry tune. The festival-goers burst into dance, a swirling mass of celebration under the sun's shimmering corona. At the center of the joyful chaos, Avon and Lyra face each other. A radiant golden light, the essence of Lathander's sun, flows from Avon's outstretched hands. It meets a stream of pure, silvery energy—Selûne's moon—flowing from Lyra as their eyes glow with each other's magical energy."
-
-**interaction**
-> "A local, flushed with wine and excitement, grabs your hand and tries to pull you into the dance."
-
-!!! Buff for a successful performance check?
-
-Stage 3:
-
-> "As the last celestial alignment of the eclipse passes, the ritual reaches its crescendo. A palpable wave of divine energy washes over the cheering crowd. But just as the light of Lathander and the glow of Selûne perfectly balance, three silvery swirls of mist materialize from thin air. The mist solidifies, revealing three figures standing with an unnatural stillness."
-
-!!! Are cultists here as well as fodder for the party to fight?
-
-**Manage perception checks and a surprise round.**
-
-> "The first is a hulking figure clad in heavy, dark plate armor. They grip a massive greatsword. The second figure wears flowing robes of deep indigo, a dagger at their belt and a twisted staff of dark wood in hand. The third is a slender figure gripping two scimitars, wrapped in a heavy cloak which obscures their form."
-
-!!! Description of their crimson weapons
-
-!!! Plane shift to escape?
-!!! Mechanic that lets Hadar warlocks cast very high level spells from a scroll in exchange for nearly full exhaustion?
-
----
-
-Warlock Fighter (Greatsword)
-AC: 17
-HP: 150
-Key Abilities: (Devilsight, Awaken Mind, Darkness, Eldritch Blast, Arms of Hadar, Hunger of Hadar, Counter-Spell, Second Wind)
-
-Warlock Sorcerer (Staff & dagger)
-AC: 15
-HP: 100
-Key Abilities: (Devilsight, Awaken Mind, Darkness, Eldritch Blast, Arms of Hadar, Hunger of Hadar, Counter-Spell, Scorching Ray, Shatter, Mage Armor, Shield, Twin Spell)
-
-Warlock Rogue (2 scimitars)
-AC: 16
-HP: 120
-Key Abilities: (Devilsight, Awaken Mind, Darkness, Eldritch Blast, Arms of Hadar, Hunger of Hadar, Counter-Spell, Sneak Attack, Uncanny Dodge)
 
 ---
 
