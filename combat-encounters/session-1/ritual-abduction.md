@@ -9,6 +9,9 @@
 [Kydell](../../creatures/kydell.md)
 [Willow](../../creatures/willow.md)
 [Nexi](../../creatures/nexi.md)
+[Darian Hale](../../creatures/darian-hale.md)
+[Ghaliver Longstocking](../../creatures/ghaliver-longstocking.md)
+[Guard](../../creatures/guard.md)
 
 ## Environment
 - around the eclipse well
