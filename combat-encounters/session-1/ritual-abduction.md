@@ -5,6 +5,11 @@
 - several thralls of hadar appear from the crowd
 - Darian Hale and Ghaliver (powerful allies) are present as well as some town guards
 
+[Thrall of Hadar](../../creatures/thrall-of-hadar.md)
+[Kydell](../../creatures/kydell.md)
+[Willow](../../creatures/willow.md)
+[Nexi](../../creatures/nexi.md)
+
 ## Environment
 - around the eclipse well
 - evening light as the combat begins (during the eclipse)

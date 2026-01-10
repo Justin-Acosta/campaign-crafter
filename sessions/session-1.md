@@ -57,7 +57,7 @@
 - houses weapons, armor
 - small drill square surrounded by a fence
 - training dummies
-- militia members sparring
+- militia members sparring 
 
 **Jade spars with a militia member:**
 - DC 12 attack
@@ -189,13 +189,21 @@ Some of the pastries are infused with a harmless, temporary magical effect. Roll
 
 **Stage 1: The Sun's Retreat**
 
+- Metal conduit above the well
 - the crowd places their lanterns in a large circle around the well
-- !!! describe magic
+
+- Avon explains the ritual (casts thaumaturgy, voice booms)
+  - protects the town from the threats in the Kryptgarden Forest
+  - Two most powerful from the Church of Lathander and the Temple of Selune
+  - Needs to be cast every eclipse
 
 **Stage 2: The Moon's Ascent**
 
-- !!! 
+- Lyra and Avon begin to chant in celestial
+- streams of light from the lanterns to Lyra and Avon
+- eyes glow with each others' power
+- Gold and silver light lace through the metal conduit
 
-Stage 3:
+**Stage 3:**
 - [Ritual Abduction Combat Encounter](../combat-encounters/session-1/ritual-abduction.md)
 
