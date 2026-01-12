@@ -14,11 +14,11 @@ Lyra is a silver dragonborn, her scales shimmering like mother-of-pearl under th
 ### Captain Darian Hale
 Darian Hale is a broad-shouldered, sun-browned human in his early forties with cropped dark hair and a pale scar from ear to mouth; he wears a well-kept breastplate and a discreet Lord's Alliance crown-over-red pin, stands square with feet planted, and speaks in a low, steady baritone that expects to be obeyed. He joined the Alliance after seeing what lawlessness does to small towns; in Westbridge his singular aim is protecting its people—organizing watches, fortifying choke points, and escorting vulnerable families when storms rise over the Sumber Hills. Darian is openly sympathetic to the Redclaw goblins: he refuses to aggress into their warrens and pushes for parley and safe‑passage pacts when possible, using his maps of likely approaches to steer caravans away rather than to plan strikes; he'll fight only to defend, respecting competence and kindness while keeping charlatans and glory‑seekers at arm's length.
 
-### Kaelen
-Kaelen is a stern-faced human woman in her mid-thirties with sun-weathered skin and a thin scar along her jawline. Her dark hair is tied in a practical braid, and her calloused hands move with the unconscious grace of someone who has drawn a bow ten thousand times. She wears well-maintained leather armor, and a masterwork longbow is always slung across her back. Her grey eyes constantly scan her surroundings with the vigilance of a seasoned hunter. When she speaks, her voice is low and measured, each word delivered with economy—she wastes neither arrows nor breath. She usually mans Westbridge's Forest Gate, standing watch against the undead and dangerous creatures that emerge from the Kryptgarden Forest—a duty she takes with grim seriousness. Beneath her stoic exterior lies fierce protectiveness for those she considers her own. Her hunting partner, Borin, is family in all but blood, and she would face down a dragon to bring him home safely. Kaelen knows the Kryptgarden Forest better than most, having survived encounters that would have killed lesser hunters. Her knowledge of the forest's dangers and hidden paths makes her an invaluable ally.
+### Kaeleen
+Kaeleen is a stern-faced human woman in her mid-thirties with sun-weathered skin and a thin scar along her jawline. Her dark hair is tied in a practical braid, and her calloused hands move with the unconscious grace of someone who has drawn a bow ten thousand times. She wears well-maintained leather armor, and a masterwork longbow is always slung across her back. Her grey eyes constantly scan her surroundings with the vigilance of a seasoned hunter. When she speaks, her voice is low and measured, each word delivered with economy—she wastes neither arrows nor breath. She usually mans Westbridge's Forest Gate, standing watch against the undead and dangerous creatures that emerge from the Kryptgarden Forest—a duty she takes with grim seriousness. Beneath her stoic exterior lies fierce protectiveness for those she considers her own. Her hunting partner, Borin, is family in all but blood, and she would face down a dragon to bring him home safely. Kaeleen knows the Kryptgarden Forest better than most, having survived encounters that would have killed lesser hunters. Her knowledge of the forest's dangers and hidden paths makes her an invaluable ally.
 
 ### Borin
-A burly human man with a booming laugh and calloused hands. He runs the 'Sunstone Challenge' at the Eclipse Festival and is Kaelen's hunting partner.
+A burly human man with a booming laugh and calloused hands. He runs the 'Sunstone Challenge' at the Eclipse Festival and is Kaeleen's hunting partner.
 
 ## Side Characters
 
@@ -49,8 +49,11 @@ A middle-aged human woman in simple, worn clothes, her face etched with grief af
 ### Linus
 A small human child, perhaps seven years old, with disheveled clothes and dirt-smudged cheeks. He is eerily calm and speaks in a flat, emotionless tone, his eyes having a faint, sickly grey/brown tint.
 
-### Snagg
+### Spicket
 A wiry Redclaw goblin with oversized ears and a nervous twitch. He serves as an unofficial messenger between Captain Darian Hale and the Redclaw clan, often seen darting through the shadows of the barracks with messages clutched in his clawed hands.
+
+### Snagg
+A goblin who Tethys hired to guid the party through the forest.
 
 ### Kibble
 A surprisingly well-groomed goblin who pushes a rickety handcart filled with strange mushrooms and scavenged trinkets. He has a sharp eye for value and speaks Common with a surprising amount of flourish, often trying to haggle with the more adventurous festival-goers.

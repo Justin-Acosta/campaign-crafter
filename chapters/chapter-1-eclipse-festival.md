@@ -92,7 +92,7 @@ A player who wins this challenge receives a small sunstone worth 25gp.
 **Sunshot Archery Contest:**
 > You see a line of archers taking aim at targets painted with radiant suns, the twang of bowstrings echoing in the air.
 > 
-> The contest is overseen by a stern-faced human woman (Kaelen) with a masterwork bow slung over her shoulder. She watches each participant with a hawk's eye, offering curt nods of approval for good shots
+> The contest is overseen by a stern-faced human woman (Kaeleen) with a masterwork bow slung over her shoulder. She watches each participant with a hawk's eye, offering curt nods of approval for good shots
 >
 >"Keep your elbow up."
 

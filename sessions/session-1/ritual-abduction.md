@@ -38,4 +38,4 @@
 **Enemies:**
 - [Escape plan or final stand]
 
-[session-1](../../sessions/session-1.md)
+[session-1](./outline.md)

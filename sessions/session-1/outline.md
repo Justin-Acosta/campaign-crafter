@@ -66,7 +66,7 @@
 
 **Darian Hale asks Tethys for news about the town:**
 - have the festival goers been peaceful?
-- did Kaelen say that the Forest Gate is secure?
+- did Kaeleen say that the Forest Gate is secure?
 - i trust you the most
 
 **Darian Hale commands one more sparring session before the festival:**
@@ -166,7 +166,7 @@ A player who wins this challenge receives a small sunstone worth 25gp.
 > You see a line of archers taking aim at targets painted with radiant suns
 _sounds from the twang of bowstrings_
 > 
-> The contest is overseen by a stern-faced human woman (Kaelen) with a masterwork bow slung over her shoulder. She watches each participant with a hawk's eye, offering curt nods of approval for good shots
+> The contest is overseen by a stern-faced human woman (Kaeleen) with a masterwork bow slung over her shoulder. She watches each participant with a hawk's eye, offering curt nods of approval for good shots
 >
 >"Keep your elbow up. Open your chest."
 
@@ -205,5 +205,5 @@ Some of the pastries are infused with a harmless, temporary magical effect. Roll
 - Gold and silver light lace through the metal conduit
 
 **Stage 3:**
-- [Ritual Abduction Combat Encounter](../combat-encounters/session-1/ritual-abduction.md)
+- [Ritual Abduction Combat Encounter](./ritual-abduction.md)
 
