@@ -1,6 +1,6 @@
 # Nexi (Herald of Hadar)
 
-[Ritual Abduction Combat Encounter](../combat-encounters/session-1/ritual-abduction.md)
+[Ritual Abduction Combat Encounter](../sessions/session-2/ritual-abduction.md)
 
 *Medium humanoid (half-elf), neutral evil*
 
@@ -21,7 +21,7 @@
 
 ## Traits
 
-**Assassinate.** During their first turn, Nexi has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Nexi scores against a surprised creature is a critical hit.
+**Assassinate.** Nexi has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Nexi scores against a surprised creature is a critical hit.
 
 **Cunning Action.** On each of their turns, Nexi can use a bonus action to take the Dash, Disengage, or Hide action.
 
@@ -31,7 +31,7 @@
 
 **Spellcasting.** Nexi is a 12th-level spellcaster. Their spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). They regain their expended spell slots when they finish a short or long rest. They know the following Warlock spells:
 *   Cantrips (at will): *eldritch blast*, *message*, *minor illusion*
-*   1st–5th level (3 5th-level slots): *armor of agathys*, *darkness*, *dimension door*, *hunger of hadar*, *invisibility*, *misty step*, *shadow of moil*, *spider climb*
+*   1st–5th level (3 5th-level slots): *armor of agathys*, *darkness*, *hunger of hadar*, *invisibility*, *misty step*, *shadow of moil*, *spider climb*
 
 ## Actions
 

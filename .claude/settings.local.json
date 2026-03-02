@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xxd /Users/jacosta/workspace/campaign-crafter/.claude/CLAUDE.md)"
+    ]
+  }
+}

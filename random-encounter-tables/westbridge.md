@@ -6,19 +6,6 @@ This table can be used for random encounters in the town of Westbridge in the da
 
 ### d12 Encounters
 
----
-
-### 1. One Last Game
-
-> As you pass through the emptying market square, you spot one of the festival stalls still standing, though mostly packed. The proprietor, a cheerful gnome tinkerer with soot-smutched cheeks (Pippin), is carefully placing enchanted candles into a large crate. He spots you and his face lights up. He asks, his voice a rapid-fire burst of excitement as he gestures to a familiar sight: the ghostly, shimmering antlers of a celestial elk.
->
-> "One last game for the heroes of the festival? The Moon-Elk Antler Toss! Special prize for a special round, just for you. Same rules as before, three rings, two successful throws to win. But this time, you'll get one of my own creations!"
-
-**Technical Information:**
-
-- **Challenge:** A character must succeed on two of three DC 15 ranged attack rolls to win.
-- **Prize:** Pippin awards the winner a **Glimmering Lantern**. This bullseye lantern, when lit, functions normally but also reveals spectral outlines of any creature that has passed through its light in the last minute.
-
 ### 2. Ghaliver's Gadgets Gone Haywire
 
 > A series of frantic metallic chirps suddenly fills the air around you. Before you can react, two of Ghaliver Longstocking's clockwork critters—tiny, steam-powered birds—swoop down with surprising speed. In a flash of whirring gears and flapping metal wings, they snatch (two items) from the (party members) and fly up above you.

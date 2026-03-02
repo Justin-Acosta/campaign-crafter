@@ -1,6 +1,6 @@
 # Thrall of Hadar
 
-[Ritual Abduction Combat Encounter](../combat-encounters/session-1/ritual-abduction.md)
+[Ritual Abduction Combat Encounter](../sessions/session-2/ritual-abduction.md)
 
 *Medium humanoid (any race), chaotic evil*
 

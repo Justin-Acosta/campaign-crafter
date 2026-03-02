@@ -1,0 +1,29 @@
+- We flash back to a young Yom living in the orphanage at the Abby of the Golden Sheaf. Yom looks at a necklace left for him by his parents, a memento of a sun and moon, when he notices a lizard being overwhelmed by ants. He sees the lizard die, and is compelled by an abyssal voice to consume the reptile. His caregiver notices Yom's carnivorous action and expresses concern. Yom wakes up in one of the fields of wheat near Westbridge.
+- The party goes to various shops in Westbridge to buy supplies:
+  - Thistle's shop - An un-branded herbalist shop. Thistle the tiefling does it for the love of the game. She makes some of the best potions on the Long Road.
+  - Ironfoot Smithery - Makes weapons and armor. Forged a fine trident for Jade
+  - The Hotkettle Inn's General Shop - Martha, a lazy and unbothered innkeeper, runs a general shop on the ground floor of the inn.
+- During their errands, Cal and Jade notice some suspicious looking people. One leans on a wall, the other buys a dagger from the Ironfoot Smithery. Both hide their faces and appear malnourished, but strangely do not seem hungry.
+- Cal (or Jade?) visits the Forest Gate to ask the local hunters about what the party can expect in the Kryptgarden Forest. They respond with:
+  - Overgrown beasts and monstrosities
+  - Undead humanoids, beasts, and monstrosities
+  - Some fae creatures
+  - The ancient green dragon Old Gnawbone
+- Jade uses the sauna in the Hotkettle Inn to give her scales an impressive sheen.
+- Festival goers begin to congregate in the center of town around the Eclipse Well. They place their lanterns in a circle around the well, and Avon initiates the ritual.
+- Cal communes with Selune and watches the light from his lantern move into the metal structure above the well along with many others.
+- Avon and Lyra begin casting the ritual as the sun and moon align. Avon's eyes glow with the silver light of Selune, and Lyra's glow with the golden light of Lethander.
+- Just as the eclipse begins and the ritual crescendos, 3 imposing figures misty step in front of the well, and many gaunt, hooded figures brandishing daggers emerge from the crowd. One of the figures uses a powerful scroll of sleep to incapacitate Avon. Elara immediately falls unconscious as well.
+- Chaos erupts as some festival goers are slaughtered and magical darkness is summoned around the Eclipse Well.
+- Jade notices that the 3 figures in the center all have similar features: weapons with crimson red blades and jet black eyes with bright pin-pricks of crimson light. She surmises that they are most likely warlocks.
+- The party alongside Darian Hale struggles to fight blind through the magical darkness until Cal calls upon Selune to dispel most of the darkness with an even more powerful magical light.
+- Cal uses his telekinetic crab powers to nearly send one of the warlocks down the Eclipse Well, though she narrowly saves herself by grabbing onto the edge.
+- Jade attempts to finish what Cal started with her trident, but the warlock is able to dodge the blow, seemingly tipped off by her companion through a telepathic link.
+- The warlocks are able to lift their ally out of the well, who produces a metal tuning fork and casts plane shift. The three warlocks along with Avon disappear.
+- The party finishes off the other weak cultists around the well and takes one prisoner and puts them in a cell in the town barracks with anti-spellcasting binds.
+- Cal, Yom, and the Lathander priestess Alyssa tend to Lyra who is still unconscious with her eyes glowing with golden light. She is taken into the Hotkettle Inn to be tended to. It appears as if the Lyra (and Avon) are still casting the Eclipse Ritual, leaving them in a comatose state.
+- The party investigates the scene with the help of Ghaliver and uncovers some details about what occurred:
+  - The warlocks used Plane Shift to escape
+  - The Sigils used in the Plane Shift spell indicate that they traveled to Abreir (the twin planet of our world Toril)
+  - Abreir is technically an alternate dimension of Toril where the dominant entities are primordials (elementals, dragons, among other things) instead of gods.
+  - Dragons and Dragonborn are said to have been brought to Toril during the Spellplague when pieces of each dimension swapped places.

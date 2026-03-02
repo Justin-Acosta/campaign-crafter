@@ -1,6 +1,6 @@
 # Captain Darian Hale
 
-[Ritual Abduction Combat Encounter](../combat-encounters/session-1/ritual-abduction.md)
+[Ritual Abduction Combat Encounter](../sessions/session-2/ritual-abduction.md)
 
 *Medium humanoid (human), lawful neutral*
 
@@ -34,10 +34,10 @@
 
 **Heavy Crossbow.** *Ranged Weapon Attack:* +6 to hit, range 100/400 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage.
 
-**Leadership (Recharges after a Short or Long Rest).** For 1 minute, Darian can utter a special command or warning whenever a nonhostile creature that he can see within 30 feet of him makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand Darian. A creature can benefit from only one Leadership die at a time. This effect ends if Darian is incapacitated.
+**Leadership (gives ally an attack - bonus action).** For 1 minute, Darian can utter a special command or warning whenever a nonhostile creature that he can see within 30 feet of him makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand Darian. A creature can benefit from only one Leadership die at a time. This effect ends if Darian is incapacitated.
 
 ## Reactions
 
 **Parry.** Darian adds 3 to his AC against one melee attack that would hit him. To do so, Darian must see the attacker and be wielding a melee weapon.
 
-**Commander's Strike.** When a creature Darian can see within 30 feet of him makes an attack roll, Darian can use his reaction to grant that creature advantage on the roll.
+**Commander's Strike.** When a creature Darian can see within 30 feet of him makes an attack roll, Darian can use his reaction to grant that creature advantage on the roll. 2/day

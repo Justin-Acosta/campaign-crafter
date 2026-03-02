@@ -27,15 +27,13 @@
 - Darian Hale and Ghaliver join the fight
 
 ### Stage 2:
-- The eclipse crests, turning the entire battlefield dark
-- Ghaliver uses a powerful device to dispel the magical darkness
-- the harolds cast hunger of hadar
+- battlefield turns dark
+- Ghaliver - device to dispel magical darkness
+- the harolds - hunger of hadar
+- Willow drawing symbols on ground
 
 ### Stage 3:
-- [The climax of the encounter]
-- [Resolution/Aftermath]
+- Willow casts Planeshift (Forked metal rod)
+- Remaining thralls self-destruct
 
-**Enemies:**
-- [Escape plan or final stand]
-
-[session-1](./outline.md)
+[session-2](./outline.md)

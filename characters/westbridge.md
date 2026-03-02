@@ -5,6 +5,9 @@
 ### Avon
 Avon is a human man in his late fifties, with a kind, weathered face framed by short, graying hair that catches the light like spun gold. His robes are the color of a sunrise, simple yet immaculate, and he carries himself with the gentle authority of a beloved community leader. He often speaks with his hands clasped before him, only gesturing to emphasize a point of particular importance. His voice is a calm and measured baritone, but a quiet urgency enters his tone when he speaks of the temple, betraying the deep worry beneath his serene exterior.
 
+### Alyssa (priestess)
+Avon's right hand, runs church in Avon's absence.
+
 ### Ghaliver Longstocking
 Ghaliver is a gnome with a wild shock of white hair and grease-smudged cheeks, Ghaliver is a well-known and trusted artificer. Their presentation shifts from day to day, sometimes favoring elaborate, tailored coats and at other times simple, practical overalls. Despite their eccentric mannerisms—like constantly fidgeting with a small metallic contraption and speaking in a rapid-fire, enthusiastic tone—the villagers of Westbridge rely on them to solve complex problems and manage the logistics for key goods. Their eyes, magnified by a pair of thick goggles, dart around with restless curiosity. Their workshop, "Ghal's Gadgets," sits in the center of town, but it is closed for the festival. While they are not directly involved in the planning or celebration of the Eclipse Festival, their creations can occasionally be seen delighting travelers at the festival.
 
@@ -17,19 +20,28 @@ Darian Hale is a broad-shouldered, sun-browned human in his early forties with c
 ### Kaeleen
 Kaeleen is a stern-faced human woman in her mid-thirties with sun-weathered skin and a thin scar along her jawline. Her dark hair is tied in a practical braid, and her calloused hands move with the unconscious grace of someone who has drawn a bow ten thousand times. She wears well-maintained leather armor, and a masterwork longbow is always slung across her back. Her grey eyes constantly scan her surroundings with the vigilance of a seasoned hunter. When she speaks, her voice is low and measured, each word delivered with economy—she wastes neither arrows nor breath. She usually mans Westbridge's Forest Gate, standing watch against the undead and dangerous creatures that emerge from the Kryptgarden Forest—a duty she takes with grim seriousness. Beneath her stoic exterior lies fierce protectiveness for those she considers her own. Her hunting partner, Borin, is family in all but blood, and she would face down a dragon to bring him home safely. Kaeleen knows the Kryptgarden Forest better than most, having survived encounters that would have killed lesser hunters. Her knowledge of the forest's dangers and hidden paths makes her an invaluable ally.
 
+### Dorn Ironfoot (Ironfoot Smithery)
+A gruff mountain dwarf with a beard like a steel wool scouring pad. He is the town's blacksmith, constantly grumbling about the "butter-soft" quality of human metalwork while tirelessly repairing plows and shoeing horses with unmatched precision.
+
+### Thistle (herbalist)
+A eccentric tiefling with crimson skin and small, curling horns who keeps to the shadows of her herbalism stall. She sells potent poultices and salves, speaking in a whisper and avoiding eye contact, though her remedies are the most effective in town.
+
+### Linden Brownbutter (cook)
+A kindly halfling with dried blood and flour on his apron and a warm smile. Cooks at the Hotkettle Inn
+
+### Martha Hotkettle (inn keeper)
+Runs the hotkettle inn, general store, and sauna. Slow, unbothered.
+
+### Snagg
+A goblin who Tethys hired to guid the party through the forest.
+
 ### Borin
 A burly human man with a booming laugh and calloused hands. He runs the 'Sunstone Challenge' at the Eclipse Festival and is Kaeleen's hunting partner.
 
 ## Side Characters
 
-### Pippin
-A cheerful gnome with soot-smudged cheeks and goggles pushed up on his forehead. He speaks in rapid-fire bursts of excitement about his creations and runs the 'Glimmer & Glow' stall at the Eclipse Festival, selling enchanted candles and lanterns.
-
 ### Silas
-An enigmatic half-elf cloaked in dark, flowing robes that obscure their features. Their eyes seem distant and unfocused, as if watching a performance on some other, unseen stage. They run the shadow puppet show at the festival.
-
-### Linden
-A kindly half-elf with flour dusting his apron and a warm smile. He runs the 'Taste of the Heavens' pastry stall at the Eclipse Festival and takes great pride in his baking.
+An enigmatic half-elf cloaked in dark, flowing robes that obscure their features. diviner.
 
 ### Corbin
 A human scout in his late 30s with a weathered face and a scruffy beard, clad in practical, well-worn leather gear. His voice is low and steady. He is a hunter from Westbridge.
@@ -40,32 +52,17 @@ A tall, gaunt human with pale skin and eyes the color of a stormy sky. He wears 
 ### Finnan
 A gnome farmer whose face is often a mask of frustration, especially when his two large draft horses, Daisy and Petunia, escape their enclosure.
 
-### Lenny
-A human con artist in a gaudy sun-and-moon-patterned cloak. He has an overly cheerful voice and sells fake magical trinkets to the unsuspecting.
-
-### Elspeth
-A middle-aged human woman in simple, worn clothes, her face etched with grief after her husband, a hunter, went missing in the Kryptgarden Forest.
-
 ### Linus
 A small human child, perhaps seven years old, with disheveled clothes and dirt-smudged cheeks. He is eerily calm and speaks in a flat, emotionless tone, his eyes having a faint, sickly grey/brown tint.
 
 ### Spicket
 A wiry Redclaw goblin with oversized ears and a nervous twitch. He serves as an unofficial messenger between Captain Darian Hale and the Redclaw clan, often seen darting through the shadows of the barracks with messages clutched in his clawed hands.
 
-### Snagg
-A goblin who Tethys hired to guid the party through the forest.
-
 ### Kibble
 A surprisingly well-groomed goblin who pushes a rickety handcart filled with strange mushrooms and scavenged trinkets. He has a sharp eye for value and speaks Common with a surprising amount of flourish, often trying to haggle with the more adventurous festival-goers.
 
-### Dorn Ironfoot
-A gruff mountain dwarf with a beard like a steel wool scouring pad. He is the town's blacksmith, constantly grumbling about the "butter-soft" quality of human metalwork while tirelessly repairing plows and shoeing horses with unmatched precision.
-
 ### Meera Brambletoe
 A bubbly stoutheart halfling with curls that bounce as she walks. She runs a small cart selling "lucky" charms made of woven grass and river stones, and she knows every piece of gossip in Westbridge before it even happens.
-
-### Thistle
-A shy tiefling with crimson skin and small, curling horns who keeps to the shadows of her herbalism stall. She sells potent poultices and salves, speaking in a whisper and avoiding eye contact, though her remedies are the most effective in town.
 
 ### Rusk
 A massive half-orc with a jaw like a granite block and eyes that have seen too much. He works as a bouncer and general laborer, communicating mostly in grunts and nods. Despite his intimidating appearance, he is often seen gently feeding the stray cats that gather near the market.

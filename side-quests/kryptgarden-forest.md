@@ -1,1 +1,1 @@
-Claugiyliamatar wants to gain Change Shape magic. 
+- Claugiyliamatar wants to gain Change Shape magic. Knows about Abeir

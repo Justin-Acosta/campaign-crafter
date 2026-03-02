@@ -1,6 +1,6 @@
 # Ghaliver Longstocking
 
-[Ritual Abduction Combat Encounter](../combat-encounters/session-1/ritual-abduction.md)
+[Ritual Abduction Combat Encounter](../sessions/session-2/ritual-abduction.md)
 
 *Small humanoid (gnome), chaotic good*
 
@@ -22,9 +22,7 @@
 
 **Gnome Cunning.** Ghaliver has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.
 
-**Flash of Genius (5/Day).** When Ghaliver or another creature he can see within 30 feet of him makes an ability check or a saving throw, Ghaliver can use his reaction to add +5 to the roll.
-
-**Spell Storing Item.** Ghaliver stores the *cure wounds* spell in a small mechanical spider. A creature holding the spider can use an action to cast the spell (using Ghaliver's spellcasting ability) up to 10 times.
+**Spell Storing Item.** Ghaliver stores the *cure wounds* spell in a small mechanical bird. A creature holding the bird can use an action to cast the spell (using Ghaliver's spellcasting ability) up to 10 times.
 
 **Spellcasting.** Ghaliver is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). He has the following Artificer spells prepared:
 *   Cantrips (at will): *fire bolt*, *mending*, *shocking grasp*
