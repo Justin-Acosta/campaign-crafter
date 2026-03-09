@@ -97,13 +97,6 @@ This table can be used for random encounters within the Kryptgarden Forest.
   - **Faerel:** See a silvery outline of one creature within 30 ft (even through walls, 60 ft range); advantage on attacks against it
   - **Nael:** Create immobile spectral duplicate within 30 ft; bonus action to swap places with it
 
-### 11. The Wounded Satyr
-
-- **Filo** (satyr) — leg caught in a goblin trap, 3 **Goblins** taunting him
-- Goblins flee if one is killed; easily surprised
-- **Reward:** Enchanted wine — drinker gains *Bless* for 1 hour
-- Filo warns: "Stay clear of the old temple to the north. Something dark stirs in there."
-
 ### 12. The Ancient Battlefield
 
 - Boggy clearing littered with rusted weapons, shattered shields, skeletal remains
