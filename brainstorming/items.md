@@ -1,0 +1,1 @@
+- green dragon scale shield that gives 1 legendary resistance

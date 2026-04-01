@@ -12,3 +12,11 @@ what story do i want to tell of the forest?
 - Gives spear
 - Lord's alliance
 
+## The Fendrel Zoneee
+
+- Land mines
+- explosions
+
+## Snagg and Fendrel
+
+- Fendrel killed snagg's previous beast companion
