@@ -7,6 +7,8 @@ what story do i want to tell of the forest?
 - Dead creatures are rising again as undead
 - Some creatures have had their blood drained (these do not turn undead)
 
+- Fendrel killed snagg's previous beast companion
+
 # Westbridge
 
 ## Tethys's Run
@@ -32,10 +34,6 @@ what story do i want to tell of the forest?
 ## Snagg's Companion
 
 - [Noodle](/creatures/images/noodle.png) the giant centipede
-
-## Snagg and Fendrel
-
-- Fendrel killed snagg's previous beast companion
 
 ## Hunting Lizard
 
