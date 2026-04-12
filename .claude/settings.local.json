@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(xxd /Users/jacosta/workspace/campaign-crafter/.claude/CLAUDE.md)"
+      "Bash(./z-services/open5e/venv/bin/python:*)",
+      "Bash(z-services/open5e/venv/bin/python:*)"
     ]
   }
 }
