@@ -3,7 +3,7 @@ import os
 import sys
 
 # Base URL for Open5e API (for stats)
-OPEN5E_URL = "https://api.open5e.com/monsters/"
+OPEN5E_URL = "https://api.open5e.com/v1/monsters/"
 
 # Base URL for D&D 5e API (for images)
 DND5EAPI_URL = "https://www.dnd5eapi.co"
