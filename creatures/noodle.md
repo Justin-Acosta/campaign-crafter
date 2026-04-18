@@ -1,11 +1,14 @@
 # Noodle
 ![Noodle](/creatures/images/noodle.png)
+[Spider Battle](/sessions/session-3/spider-battle.md)
+[Lizard Battle](/sessions/session-3/lizard-battle.md)
+[Undead Creatures](/sessions/session-3/outline.md#undead-creatures)
 
 **Challenge** 1/4 (50 XP)
 
 *Large Beast, unaligned*
 **Armor Class** 15 (natural armor + proficiency)
-**Hit Points** 16 (3d10)
+**Hit Points** 30 (3d10)
 **Speed** 40 ft., climb 40 ft.
 
 |    STR    |    DEX    |    CON    |    INT    |    WIS    |    CHA    |
